@@ -76,19 +76,19 @@
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
    
-   1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
+   1. Indiranagar followed by BTM Layout and Koromangala amongst the locations in Bangalore have the highest number of Restaurants listed on Zomato.
    
-   2. There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and Writers have the least number of job openings.
+   2. Above 70% of the Restaurants have been rated 4 and above out of 5 (max rating) based on their Food and Services.
    
-   3. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
+   3. Less than 0.7% of the Restaurants are rated 2 or below it, showing that the Customer's satisfaction with the Restaurants listed on Zomato in Bangalore is Positive.
    
-   4. Programming languages like Python, Java and Java script are the most in demand skills.
+   4. In Indiranagar 68 out of 103, in BTM Layout 61 out of 90 and in Koromangla 47 out of 83 Restaurants have been rated for their delivery services above 1000, showing high satisfaction of their users.
    
-   5. Bangalore and Mumbai are the Cities with highest number of job openings.
+   5. Minimum Cost for 2 people, in the cheapest Restaurants in almost all the locations is within the range of 100-200 Rupees.
    
-   6. Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
+   6. North Indian Cuisine is served by 211 Restaurants, Desserts is served by 108 Restaurants, Continental Cuisines is served by 41 Restaurants (Top 3) in Bangalore.
    
-   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
+   7. BTM Layout, Maruti Nagar and Kanaka Nagar have the highest number of Restaurants with Ratings less than 3.
    <br>
    
    
