@@ -96,20 +96,13 @@
    
    <B> The aim of the Project is to: </B>
    
-   1. Assist the people in finding the most suitable jobs based on their eligibilities and preferences. 
+   1. Assist the Enterpreneurs interested in entering Restaurant's Business with useful insights like most loved cuisines, locations with high business potential, prices that they can think of charging for dishes etc. 
    
-   2. Help the migratory work force in finding out the most suitable locations for their respective work fields.
+   2. Help the existing Restaurant owners with the Data of their performance compared to others, new cuisines they can opt for business expansion, optimum prices that they can charge etc.
    
-   3. To provide an idea of the employement situation in the country.
+   3. To look for the level of Customer's satisfaction and to help Zomato in finding out the locations and the restaurants they need to work upon for betterment of the business.
    
-   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure employment.
-   
-   5. Helping the new Generation to plan their future with the information like most in demand skills, locations with highest number of job openings, most in demand job profiles etc.
-   
-   6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
-   
-   
-   
+   4. Empowerment of common people with the relevant information that can help them to establish succesful food business, generate employment and aid to the raising employment rate of the country. 
     
 
 ![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
