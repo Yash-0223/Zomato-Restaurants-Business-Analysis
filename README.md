@@ -1,7 +1,7 @@
 # 
 # <h>  **Zomato Restaurants Business Analysis Using SQL, Power BI And Power Query.**
 
-**The depository contains the analysis of Restaurants listed on Zomato Food Delivery Platform in the city of Bangalore on the basis of location, cuisines, prices, ratings etc. The Project's objectives were to investigate the suitability of launching the restaurant business in Bangalore, Karnataka. Additionally, it compared the existing restaurants and their localities in Bangalore based on their ratings, prices, cuisines etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Aggregation of Data, Formation of Database, Tables, Schema (Data Modelling) and the Analysis of Data has been performed with SQL using MySQL Database Management System (DBMS). Importing the Data and Optimization of the same has been done with Power Query. An Interactive and Attractive Dashboard has been built using Power BI.**
+**The depository contains the analysis of Restaurants listed on Zomato Food Delivery Platform in the city of Bangalore on the basis of location, cuisines, prices, ratings etc. The Project's objectives were to investigate the suitability of launching the restaurant business in Bangalore, Karnataka. Additionally, it compared the existing restaurants and their localities in Bangalore based on their ratings, prices, cuisines etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Aggregation of Data, Formation of Database, Tables, Schema (Data Modelling) and the Analysis of Data has been performed with SQL using MySQL Database Management System (DBMS). Importing the Data and Data Cleaning has been done with Power Query. An Interactive and Attractive Dashboard has been built using Power BI.**
 
 
 
@@ -24,17 +24,17 @@
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the relationship between the number of Job Openings and the Size of the companies.
+    o       Analysed the number of Restaurants listed on Zomato in each Location in Bangalore.
     
-    o	Explored the trends for the different job profiles and the number of job openings available for them.
+    o	Found out the Most Expensive and the Cheapest Restaurants in each location in Bangalore.
      
-    o	Analysed the percentage of total jobs available for diffrent Standards of Experiences.
+    o	Analysed the Restaurants based on their Food Ratings and Delivery Ratings.
   
-    o	Analysed the top skills based on number of jobs available for them.
+    o	Analysed the Locations based on their Ratings of the Restaurants.
     
-    o	Analysed the number of jobs present in different locations.
+    o	Analysed the Restaurants based on the Cuisines they Serve.
     
-    o	Found out the Top 10 companies based on the number of jobs present in them.
+    o	Found out the Most Expensive and the Cheapest Restaurants that serve a particular Cuisine in Bangalore.
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
@@ -53,23 +53,22 @@
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-    1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
+    1. Started with Creating the Database and Activating it to use in MySQL.
     
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
+    2. Imported the Data present in CSV files in MySQL and created Restaurants and Dishes Tables within the Database created previously. 
  
-    3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
+    3. Performed in depth analysis of the data in MySQL using Sub Query, Windows functions (Dense_rank), Joins, Group by, Order by clauses etc.
     
-    4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
+    4. Exported all the tables from MySQL to MS Excel and created separate CSV files out of it for Restaurants and Dishes data.
     
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
+    5. Imported the Data in Power BI from CSV files using Get Data option.
     
-    6. Created different charts from the table for better understanding of the data.
+    6. Used Power Query to change data type of the columns, removed duplicates and null values, removed redundant columns etc.
     
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation.
+    7. Created visuals using Bar chart, Columns chart, Pie chart, Table etc for in depth analysis.
     
-    8. Created some useful drop-downs for fetching the required Data like Standard Experience, Standard Role (Profiles) and Location.
-    
-    9. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
+    8. Created an Interactive and Attractive Dashboard with the charts and visuals created previously.
+   
     
 
 
