@@ -1,0 +1,517 @@
+﻿Rest_Listing_number,Restaurant_ID,Restaurant_Name,Cusines,Ratings,Cost_for_2,Cost_for_1,Address,Location,Delivery_review_score,Dish_category_ID
+325,Zom_325,Leon's - Burgers &amp; Wings (Leon Grill),American,4,600,300,"Sanjay Nagar, Bangalore",Sanjay Nagar,5000,1
+326,Zom_326,Biryani Pot,North Indian Indian,4,500,250,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,15000,2
+327,Zom_327,Burger King,"North Indian Indian,American",4,350,175,"Tasker Town, Shivaji Nagar, Bangalore",Shivaji Nagar,1000,3
+328,Zom_328,Burger Seigneur,American,4,1200,600,"St. Marks Road, Bangalore",St. Marks Road,10000,4
+329,Zom_329,Sri Punjabi Dhaba,North Indian Indian,3,300,150,"Btm Layout, Bangalore",Btm Layout,500,5
+330,Zom_330,Hotel Empire,North Indian Indian,4,450,225,"Brigade Road, Bangalore",Brigade Road,15000,6
+331,Zom_331,Pizza Hut,Continental,4,300,150,"Indiranagar, Bangalore",Indiranagar,5000,7
+332,Zom_332,Royal Restaurant,North Indian Indian,4,300,150,"Sulthangunta, Shivaji Nagar, Bangalore",Shivaji Nagar,1000,8
+333,Zom_333,Imperio Restaurant,North Indian Indian,4,300,150,"Hrbr Layout, Bangalore",Hrbr Layout,10000,9
+334,Zom_334,Shanghai House,North Indian Indian,4,400,200,"Rt Nagar, Bangalore",Rt Nagar,500,10
+335,Zom_335,Meghana Foods,North Indian Indian,5,500,250,"Residency Road, Ashok Nagar, Bangalore",Ashok Nagar,15000,11
+336,Zom_336,New Taj Darbar,North Indian Indian,4,300,150,"Saint Mary'S Church Road, Shivaji Nagar, Bangalore",Shivaji Nagar,5000,12
+337,Zom_337,NOTO - Healthy Continental Cream,Continental,4,250,125,"Ejipura, Koramangala, Bangalore",Koramangala,10000,13
+338,Zom_338,IFC,"North Indian Indian,American",4,250,125,"Kalyan Nagar, Bangalore",Kalyan Nagarr,1000,14
+339,Zom_339,Chopstick,North Indian Indian,4,350,175,"Armane Nagar Rt Nagar,Bangalore",Armane Nagar Rt Nagar,15000,15
+340,Zom_340,Rotti Walla,North Indian Indian,4,200,100,"Appareddy Palya, Indiranagar, Bangalore",Indiranagar,500,16
+341,Zom_341,Biryani &amp; Bowls,North Indian Indian,4,350,175,"Ms Ramaiah Nagar, New Bel Road, Bangalore",Ms Ramaiah Nagar,5000,17
+342,Zom_342,Le MoMo,North Indian Indian,4,150,75,"Kge Layout, Sahakara Nagar, Bangalore",Sahakara Nagar,10000,18
+343,Zom_343,NEW Mahesh friends food center,North Indian Indian,3,200,100,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,500,19
+344,Zom_344,Chicking,American,4,400,200,"3Rd Stage, Banashankari, Bangalore",Banashankari,15000,20
+345,Zom_345,Rollsking,North Indian Indian,4,300,150,"5Th Block, Koramangala, Bangalore",Koramangala,10000,21
+346,Zom_346,Onesta,Italian,4,200,100,"Cmh Road Indiranagar,Bangalore",Indiranagar,5000,22
+347,Zom_347,Madeena Hotel,North Indian Indian,4,250,125,"5Th Block, Koramangala, Bangalore",Koramangala,1000,23
+348,Zom_348,KFC,"North Indian Indian,American",4,400,200,"Cunnigham Road, Vasanth Nagar, Bangalore",Cunnigham Road,500,24
+349,Zom_349,Kabab King,North Indian,3,250,125,"2Nd Stage Banashankari,Bangalore",Banashankari,15000,25
+350,Zom_350,Hamza hotel,Continental,4,300,150,"Hkp Road, Shivaji Nagar, Bangalore",Shivaji Nagar,5000,26
+351,Zom_351,Donne Biryani Adda,North Indian Indian,3,200,100,"Adda, Appareddy Palya, Indiranagar, Bangalore",Indiranagar,10000,27
+352,Zom_352,Imperio JuContinental and Continental creams,Desserts,4,250,125,"1St Block, Hrbr Layout, Bangalore",Hrbr Layout,1000,28
+353,Zom_353,Lassi and JuContinental,Continental,4,150,75,"Hkp Road Shivaji Nagar,Bangalore",Shivaji Nagar,500,29
+354,Zom_354,Five Star Chicken,North Indian Indian,3,200,100,"Kanakanagar, Rt Nagar, Bangalore",Rt Nagar,15000,30
+355,Zom_355,Sree Banashankari Donne Biryani,North Indian Indian,4,250,125,"2Nd Block, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,5000,31
+356,Zom_356,Sri Ram Bhojanalay,North Indian Indian,4,500,250,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,1000,32
+357,Zom_357,Marwadi Chaat &amp; Tiffin ServContinentals Shanti nagar,Rajasthani,4,300,150,"Shanti Nagar, Lakshmi Road, Shanthi Nagar, Bangalore",Shanti Nagar,10000,33
+358,Zom_358,Smitha's Kitchen,North Indian Indian,3,250,125,"Kirloskar Colony, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,500,34
+359,Zom_359,Late Night,North Indian Indian,4,300,150,"Btm, Bangalore",Btm,15000,35
+360,Zom_360,Maharaja Military Canteen-Donne Biryani,South,4,400,200,"2Nd Stage, Banashankari, Bangalore",Banashankari,1000,36
+361,Zom_361,The Bowl Company,Pan-Asian,4,300,150,"3Rd Phase, Jp Nagar, Bangalore",Jp Nagar,5000,37
+362,Zom_362,Om meals and paratha junction,North Indian Indian,4,500,250,"Hal 2Nd Stage, Domlur, Bangalore",Domlur,10000,38
+363,Zom_363,Om Sai Ram Food Junction,North Indian Indian,4,500,250,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,500,39
+364,Zom_364,Dum Biryani Hub,North Indian Indian,4,450,225,"Tavarekere, Btm Layout, Bangalore",Btm Layout,15000,40
+365,Zom_365,Domino's Pizza,Continental,4,400,200,"Rehinus Street, Richmond Town, Bangalore",Richmond Town,1000,41
+366,Zom_366,Wendy's Burgers,American,4,200,100,"3Rd Stage, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,5000,42
+367,Zom_367,Savoury Restaurant,Arabian,4,600,300,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,43
+368,Zom_368,Crispy Studio,"North Indian Indian,American",4,400,200,"5Th Phase, Jp Nagar, Bangalore",Jp Nagar,500,44
+369,Zom_369,Imperial Restaurant,Arabian,4,400,200,"Central Street, Mg Road, Bangalore",Mg Road,15000,45
+370,Zom_370,Dairy Day Continental Creams,Desserts,4,200,100,"1St Stage, Indiranagar, Bangalore",Indiranagar,5000,46
+371,Zom_371,Polar Bear Continental Cream Sundaes,Desserts,4,200,100,"6Th Block, Koramangala, Bangalore",Koramangala,1000,47
+372,Zom_372,HUNGRAMA RESTAURANT,North Indian Indian,4,450,225,"Ak Colony, Mathikere, Bangalore",Mathikere,10000,48
+373,Zom_373,HFC Call Me Kabab,North Indian Indian,4,300,150,"Ilyas Nagar, 100 Feet, Rin Jp Ng Road, Bangalore",Ilyas Nagar,500,49
+374,Zom_374,TANDOORWAALA,Indian,3,300,150,"5Th Block, Koramangala, Bangalore",Koramangala,15000,50
+375,Zom_375,The Meals Junction,North Indian Indian,4,500,250,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,5000,51
+376,Zom_376,THE FRITTER COMPANY,Desserts,4,200,100,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,10000,52
+377,Zom_377,7 Plates,North Indian Indian,4,450,225,"2Nd Block, Hrbr Layout, Kalyan Nagarr, Bangalore",Kalyan Nagarr,1000,53
+378,Zom_378,Sultan dum biryani,North Indian Indian,4,300,150,"1St Stage, Indiranagar, Bangalore",Indiranagar,15000,54
+379,Zom_379,Vinny's,Continental,4,350,175,"New Bel Road, Bangalore",New Bel Road,500,55
+380,Zom_380,Meghduth Biryanis,North Indian Indian,4,400,200,"Kge Layout, Sanjay Nagar, Bangalore",Sanjay Nagar,5000,56
+381,Zom_381,Phoenix pizza,Continental,4,200,100,"6Th Phase, Jp Nagar, Bangalore",Jp Nagar,10000,57
+382,Zom_382,Biryani Khazana,North Indian Indian,4,250,125,"1St Stage, Indiranagar, Bangalore",Indiranagar,500,58
+383,Zom_383,Tandoori Merchant,North Indian Indian,4,100,50,"Madiwala, Btm Layout, Bangalore",Madiwala,15000,59
+384,Zom_384,Fresh Bites,North Indian Indian,4,200,100,"Appareddy Palya, Indiranagar, Bangalore",Indiranagar,10000,60
+385,Zom_385,Kolkata Durbar,North Indian Indian,4,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,5000,61
+386,Zom_386,Rajasthani Taj restaurant,North Indian Indian,3,200,100,"1St Stage, Btm Layout, Bangalore",Btm Layout,1000,62
+387,Zom_387,Oven Story Pizza,Continental,4,400,200,"Hoysala Nagar, Indiranagar, Bangalore",Indiranagar,500,63
+388,Zom_388,The Belgian Waffle Co.,Desserts,4,200,100,"4Th Block, Jayanagar, Bangalore",Jayanagar,15000,64
+389,Zom_389,Olio - The Wood Fired Pizzeria,Continental,4,300,150,"Cmh Road, Indiranagar, Bangalore",Indiranagar,5000,65
+390,Zom_390,89 Express Dhaba,North Indian Indian,4,890,445,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,66
+391,Zom_391,Momoz,North Indian Indian,4,350,175,"Ganganagar, Bangalore",Ganganagar,1000,67
+392,Zom_392,Biryani Mount,North Indian Indian,4,400,200,"Hrbr Layout, Kalyan Nagarr, Bangalore",Kalyan Nagarr,15000,68
+393,Zom_393,MAFUQ BIRYANI,North Indian Indian,4,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,500,69
+394,Zom_394,WarmOven Cake &amp; Desserts,Desserts,4,200,100,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,5000,70
+395,Zom_395,Istah - The Mediterranean Way,Arabian,4,250,125,"6Th Block, Koramangala, Bangalore",Koramangala,10000,71
+396,Zom_396,Coorg Spicy Kadai,South Indian,4,400,200,"Hennur Flyover, Hbr Layout, Bangalore",Hbr Layout,500,72
+397,Zom_397,Indori Poha,North Indian Indian,4,200,100,"1St Block, Koramangala, Bangalore",Koramangala,15000,73
+398,Zom_398,Sharief Bhai,North Indian Indian,4,400,200,"5Th Block, Koramangala, Bangalore",Koramangala,1000,74
+399,Zom_399,The royal burgers,North Indian Indian,4,200,100,"Msr Nagar, New Bel Road, Bangalore",Msr Nagar,5000,75
+400,Zom_400,Andhra Meals Express,North Indian Indian,4,300,150,"6Th Sector, Hsr Layoutr, Bangalore",Hsr Layoutr,10000,76
+401,Zom_401,Wow! China,Tibetan,4,300,150,"5Th Sector, Hsr Layoutr, Bangalore",Hsr Layoutr,500,77
+402,Zom_402,Lucknow Express,North Indian Indian,4,100,50,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,15000,78
+403,Zom_403,Le Arabia Restaurant,Arabian,4,400,200,"Koramangala, Bangalore",Koramangala,5000,79
+404,Zom_404,METRO FOOD,North Indian Indian,2,645,323,"1St Phase, Jp Nagar, Bangalore",Jp Nagar,1000,80
+405,Zom_405,BURGER ZONE,North Indian Indian,4,150,75,"Msr College Road, Mathikere, Bangalore",Mathikere,10000,81
+406,Zom_406,Ember &amp; Frost,North Indian Indian,4,350,175,"Jyoti Nivas College Rd, Koramangala, Bangalore",Koramangala,500,82
+407,Zom_407,Daily Chinese,North Indian Indian,3,200,100,"1St Stage, Btm Layout, Bangalore",Btm Layout,15000,83
+408,Zom_408,LICIOUS PIZZA,Continental,4,300,150,"9Th Phase, Jp Nagar, Bangalore",Jp Nagar,1000,84
+409,Zom_409,The Punjabi kitchen,North Indian Indian,4,500,250,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,5000,85
+410,Zom_410,Meat and Eat,North Indian Indian,4,300,150,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,10000,86
+411,Zom_411,Malabar Cafe,Kerala,4,349,175,"7Th Block, Koramangala, Bangalore",Koramangala,500,87
+412,Zom_412,Foodism.in,North Indian,4,250,125,"1St Stage, Btm Layout, Bangalore",Btm Layout,15000,88
+413,Zom_413,temperature,Desserts,4,400,200,"Hal 3Rd Stage, Indiranagar, Bangalore",Indiranagar,5000,89
+414,Zom_414,24/7 JUContinental N SNACKS HUB,American,3,200,100,"5Th Block Koramangala,Bangalore",Koramangala,1000,90
+415,Zom_415,XO Belgian Waffle,Desserts,4,250,125,"5Th Block Koramangala, Bangalore",Koramangala,10000,91
+416,Zom_416,Big Bowl (Big Bowl Company),North Indian Indian,4,250,125,"Chikka Lakshmaiah Layout Adugodi, Bangalore",Adugodi,15000,92
+417,Zom_417,Chinese Trail,North Indian Indian,4,350,175,"Armane Nagar Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,500,93
+418,Zom_418,TEXAS BURGERS,American,4,400,200,"Hal 3Rd Stage Indiranagar, Bangalore",Indiranagar,5000,94
+419,Zom_419,Samosa Party,American,4,150,75,"Hal 3Rd Stage Jeevan Bima Nagar, Bangalore",Jeevan Bima Nagar,10000,95
+420,Zom_420,Sardarji Londonwaley,Indian,4,350,175,"7Th Block Koramangala, Bangalore",Koramangala,500,96
+421,Zom_421,Swiss Cream - Continental Creams and More,Desserts,4,250,125,"Pai Layout Old Madras Road, Bangalore",Pai Layout Old Madras Road,15000,97
+422,Zom_422,GFC Kebabs &amp; Biryani,North Indian,3,200,100,"Appareddy Palya Indiranagar, Bangalore",Indiranagar,1000,98
+423,Zom_423,Al Taj,North Indian Indian,4,200,100,"5Th Block Koramangala, Bangalore",Koramangala,5000,99
+424,Zom_424,California Burrito,Mexican,4,250,125,"Chandra Layout Vijayanagar, Bangalore",Vijayanagar,10000,100
+425,Zom_425,bihari express,Indian,3,250,125,"1St Stage Btm Layout, Bangalore",Btm Layout,500,101
+426,Zom_426,Flavor's Season,North Indian Indian,4,150,75,"5Th Phase Jp Nagar, Bangalore",Jp Nagar,15000,102
+427,Zom_427,CakeZone,Desserts,4,200,100,"Domlur Layout Indiranagar, Bangalore",Indiranagar,5000,103
+428,Zom_428,Royal Biryani Kitchen,North Indian Indian,3,250,125,"1St Stage Btm Layout, Bangalore",Btm Layout,1000,104
+429,Zom_429,Bihar ki rasoi,Indian,4,100,50,"Hal 2Nd Stage Indiranagar, Bangalore",Indiranagar,10000,105
+430,Zom_430,The Biryani Life,North Indian Indian,4,250,125,"Hoysala Nagar Indiranagar, Bangalore",Indiranagar,500,106
+431,Zom_431,Empire JuContinentals and Desserts,Desserts,3,200,100,"Infantry Road Shivaji Nagar, Bangalore",Shivaji Nagar,15000,107
+432,Zom_432,Krispy Kreme,Desserts,5,170,85,"Vega City Mall Bannerghatta Road, Bangalore",Bannerghatta,5000,108
+433,Zom_433,The Best Snacks Adda,South Indian,4,200,100,"Devasandra Layout, Bangalore",Devasandra Layout,10000,109
+434,Zom_434,California burger village,American,4,300,150,"2Nd Stage Btm Layout, Bangalore",Btm Layout,1000,110
+435,Zom_435,The Dessert Zone,Desserts,4,200,100,"2Nd Stage Indiranagar, Bangalore",Indiranagar,15000,111
+436,Zom_436,Kwality Walls Frozen Dessert and Continental Cream Shop,Desserts,4,200,100,"Shivanandanagara Jp Nagar, Bangalore",Jp Nagar,500,112
+437,Zom_437,The Good Bowl,North Indian Indian,4,400,200,"Stage 1 Indiranagar, Bangalore",Indiranagar,5000,113
+438,Zom_438,Snacks Corner,North Indian Indian,4,350,175,"Kodihalli Indiranagar, Bangalore",Indiranagar,10000,114
+439,Zom_439,Faasos - Wraps &amp; Rolls,American,4,200,100,"Rashtriya Vidyalaya Rd Jayanagar, Bangalore",Jayanagar,500,115
+440,Zom_440,WEDEL FOOD,"North Indian Indian,American",4,200,100,"Kodihalli Indiranagar, Bangalore",Indiranagar,15000,116
+441,Zom_441,"The Pastry Zone	",Desserts,4,450,225,"7Th Block Koramangala, Bangalore",Koramangala,1000,117
+442,Zom_442,Crusto's - Cheese Burst Pizza,Continental,4,300,150,"Cmh Road Indiranagar, Bangalore",Indiranagar,5000,118
+443,Zom_443,Asha Sweet Center,Desserts,4,250,125,"Manjunatha Complex Banashankari, Bangalore",Banashankari,10000,119
+444,Zom_444,Dragon's Kitchen,North Indian Indian,4,300,150,"Ms Ramaiah Nagar Sanjay Nagar, Bangalore",Sanjay Nagar,500,120
+445,Zom_445,Backyard Burgers and Grill,"North Indian Indian,American",4,250,125,"Defence Colony Indiranagar, Bangalore",Indiranagar,15000,121
+446,Zom_446,Biryani Blues,North Indian Indian,4,400,200,"Church Street Ashok Nagar, Bangalore",Ashok Nagar,5000,122
+447,Zom_447,Hunger Saviour,North Indian,4,299,150,"Maruti Nagar Btm Layout, Bangalore",Maruti Nagar,1000,123
+448,Zom_448,KOLKATA BIRYANI POINT,North Indian Indian,4,350,175,"2Nd Stage Btm Layout, Bangalore",Btm Layout,10000,124
+449,Zom_449,Ghar Ki Rasoi,North Indian Indian,4,300,150,"2Nd Stage Btm Layout, Bangalore",Btm Layout,500,125
+450,Zom_450,The Kolkata Katiroll,North Indian Indian,4,200,100,"1St Stage Indiranagar, Bangalore",Indiranagar,15000,126
+451,Zom_451,Bombay Kulfi,Desserts,4,100,50,"4Th T Block Jayanagar, Bangalore",Jayanagar,1000,127
+452,Zom_452,Behrouz Biryani,North Indian Indian,4,500,250,"Hoysala Nagar Indiranagar, Bangalore",Indiranagar,5000,128
+453,Zom_453,Samrat Donne Biriyani,North Indian Indian,4,250,125,"2Nd Main Rd Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,10000,129
+454,Zom_454,The Bangalore Creamery,Desserts,4,250,125,"Kodigehalli, Indiranagar, Bangalore",Indiranagar,500,130
+455,Zom_455,Midnight Eats,Continental,3,300,150,"Hkp Road, Shivaji Nagar, Bangalore",Shivaji Nagar,15000,131
+456,Zom_456,Nandhini Deluxe,North Indian Indian,4,500,250,"5Th Block, Koramangala, Bangalore",Koramangala,5000,132
+457,Zom_457,Coffee and Cream,Desserts,4,150,75,"Adi Kabir Ashram Main Rd, Rt Nagar, Bangalore",Rt Nagar,1000,133
+458,Zom_458,Baskin Robbins,Desserts,4,250,125,"Mgehbs Layout, New Bel Road, Bangalore",Mgehbs Layout,10000,134
+459,Zom_459,Momo Zone - The Momo Company,North Indian Indian,4,150,75,"Cmh Road, Indiranagar, Bangalore",Indiranagar,500,135
+460,Zom_460,What A Food,North Indian Indian,4,300,150,"Basappa Layout, Btm Layout, Bangalore",Btm Layout,15000,136
+461,Zom_461,PUNJAB KITCHEN,North Indian,4,250,125,"2Nd Stage, Btm, Bangalore",Btm,5000,137
+462,Zom_462,Keventers - Milkshakes &amp; Desserts,Desserts,4,200,100,"West Of Chord Road, Rajajinagar, Bangalore",Rajajinagar,10000,138
+463,Zom_463,Chai Corner,North Indian Indian,4,200,100,"Kodihalli, Indiranagar, Bangalore",Indiranagar,1000,139
+464,Zom_464,Sweet Bake - Cake &amp; Desserts,Desserts,5,150,75,"7Th Block, Koramangala, Bangalore",Koramangala,15000,140
+465,Zom_465,Yumlane Pizza,Continental,4,300,150,"5Th Block, Koramangala, Bangalore",Koramangala,500,141
+466,Zom_466,LunchBox - Meals and Thalis,North Indian Indian,4,200,100,"Hoysala Nagar, Indiranagar, Bangalore",Indiranagar,5000,142
+467,Zom_467,Karavali Family Restaurant,Mangalorean,4,200,100,"Residency Road, Brigade Road, Bangalore",Brigade Road,10000,143
+468,Zom_468,Gudbud,Desserts,4,300,150,"Ejipura, Koramangala, Bangalore",Koramangala,500,144
+469,Zom_469,The Biryani Life,North Indian Indian,4,250,125,"Hoysala Nagar, Indiranagar, Bangalore",Hoysala Nagar,15000,145
+470,Zom_470,Sree Banashankari Donne Biryani,North Indian Indian,4,250,125,"2Nd Block, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,1000,146
+471,Zom_471,The Khichadi Factory,North Indian,4,300,150,"Binnamangala, Indiranagar, Bangalore",Indiranagar,5000,147
+472,Zom_472,Dawat Durbar,North Indian Indian,3,200,100,"Hkp Road, Shivaji Nagar, Bangalore",Shivaji Nagar,10000,148
+473,Zom_473,Food Adda,"North Indian Indian,American",4,250,125,"Khb Colony, Koramangala, Bangalore",Koramangala,500,149
+474,Zom_474,The Bangalore Creamery,Desserts,4,250,125,"Kodigehalli, Indiranagar, Bangalore",Indiranagar,15000,150
+475,Zom_475,Dum Biryani Hub,North Indian Indian,4,450,225,"Tavarekere, Btm Layout, Bangalore",Btm Layout,5000,151
+476,Zom_476,Golden Globe Pizza,Continental,3,350,175,"9Th Phase, Jp Nagar, Bangalore",Jp Nagar,1000,152
+477,Zom_477,Sinful Desserts,Desserts,4,250,125,"Domlur, Bangalore",Domlur,10000,153
+478,Zom_478,The Brownie Co.,Desserts,4,350,175,"Kodigehalli, Indiranagar, Bangalore",Indiranagar,500,154
+479,Zom_479,Phulka,Indian,4,100,50,"5Th Block, Koramangala, Bangalore",Koramangala,15000,155
+480,Zom_480,Firangi Bake,Italian,4,400,200,"Hoysala Nagar, Indiranagar, Bangalore",Hoysala Nagar,1000,156
+481,Zom_481,CALCUTTA STREET,Bengali,4,350,175,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,5000,157
+482,Zom_482,Hyderabadi Biryani Hub,North Indian Indian,3,250,125,"Maruthi Nagar, Btm, Bangalore",Maruthi Nagar,10000,158
+483,Zom_483,The Handi Crust,Indian,4,350,175,"Lakshmama Layout, Halasuru, Bangalore",Halasuru,500,159
+484,Zom_484,The Dessert Heaven - Pure Veg,Desserts,5,200,100,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,15000,160
+485,Zom_485,Rajasthani Dhaba,North Indian,4,200,100,"Lakshmi Road, Shanthi Nagar, Bangalore",Shanthi Nagar,5000,161
+486,Zom_486,Delhi Dinner Darbar,Indian,4,300,150,"Msr Nagar, Mathikere, Bangalore",Msr Nagar,1000,162
+487,Zom_487,Chai Point,Desserts,4,150,75,"Industrial Town, Rajajinagar, Bangalore",Rajajinagar,10000,163
+488,Zom_488,Say Noodles,North Indian Indian,4,300,150,"Armane Nagar, Bangalore",Armane Nagar,500,164
+489,Zom_489,Waffle Magic,Desserts,4,200,100,"3Rd Stage, Indiranagar, Bangalore",Indiranagar,15000,165
+490,Zom_490,The Celebration Cakes And Desserts,Desserts,4,150,75,"7Th Block, Koramangala, Bangalore",Koramangala,5000,166
+491,Zom_491,Madurai Parotta House,South Indian,3,250,125,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,167
+492,Zom_492,Banashankari Military Hotel,North Indian Indian,4,250,125,"4Th Block, Hbr Layout, Bangalore",Hbr Layout,1000,168
+493,Zom_493,Mr. Chow,North Indian Indian,4,350,175,"4Th Block Koramangala,Bangalore",Koramangala,15000,169
+494,Zom_494,Shawarma on Wheels,Arabian,4,400,200,"Shirdi Sai Baba Mandir Rd, Indiranagar, Bangalore",Indiranagar,500,170
+495,Zom_495,Louis Burger,"North Indian Indian,American",4,600,300,"6Th Block, Koramangala, Bangalore",Koramangala,5000,171
+496,Zom_496,Firangi Bake,Italian,4,400,200,"Hoysala Nagar Indiranagar,Bangalore",Hoysala Nagar Indiranagar,10000,172
+497,Zom_497,Sweet Bake-Cake And Desserts,Desserts,4,150,75,"Devasandra Layout, Bangalore",Devasandra Layout,500,173
+498,Zom_498,The Snack Bar,Continental,3,250,125,"Teachers Colony, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,15000,174
+499,Zom_499,Falhari - A Fruitful Habit,Desserts,4,300,150,"Sg Palya, Tavarekere, Bangalore",Tavarekere,1000,175
+500,Zom_500,Burger It Up,"North Indian Indian,American",4,150,75,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,5000,176
+501,Zom_501,Sinful Desserts,Desserts,4,250,125,"Domlur, Bangalore",Domlur,10000,177
+502,Zom_502,Dum Burger,"North Indian Indian,American",4,175,88,"Bosch Gate, Koramangala, Bangalore",Koramangala,500,178
+503,Zom_503,ARS JUContinental JUNCTION,Desserts,4,200,100,"New Thipasandra, Indiranagar, Bangalore",Indiranagar,15000,179
+504,Zom_504,Biryani Square,North Indian Indian,3,250,125,"1St Stage, Btm Layout, Bangalore",Btm Layout,5000,180
+505,Zom_505,Punjabi Thandoor Dhaaba,South Indian,3,400,200,"3Rd Block, Hbr Layout, Bangalore",Hbr Layout,1000,181
+506,Zom_506,NORTH KA THADKA,North Indian Indian,4,299,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,10000,182
+507,Zom_507,Food Ford Kitchen,Indian,4,199,100,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,500,183
+508,Zom_508,Lassi Corner,Desserts,3,199,100,"Venkataswamy Layout, Koramangala, Bangalore",Koramangala,15000,184
+509,Zom_509,Punjabi Nawabi,North Indian Indian,4,350,175,"7Th Block, Koramangala, Bangalore",Koramangala,1000,185
+510,Zom_510,Rolls &amp; Bowls Company,Indian,4,250,125,"Chikkalakshmaiah Layout, Adugodi, Bangalore",Adugodi,5000,186
+511,Zom_511,Breakfast and snacks,North Indian Indian,4,249,125,"Maruti Nagar Btm Layout,Bangalore",Maruti Nagar,10000,187
+512,Zom_512,Punjabi Bowl,Punjabi,4,300,150,"1St Stage Btm Layout,Bangalore",Btm Layout,500,188
+513,Zom_513,Gobblers Rolls &amp; Bowls,North Indian Indian,4,300,150,"Sg Palya Tavarekere,Bangalore",Tavarekere,15000,189
+514,Zom_514,BURGER  BABA,"North Indian Indian,American",4,150,75,"2Nd Stage, Naidu Layout, Bangalore",Naidu Layout,5000,190
+515,Zom_515,Starbucks Coffee,Desserts,4,400,200,"4Th Block, Jayanagar, Bangalore",Jayanagar,1000,191
+516,Zom_516,High N Hungry,American,4,350,175,"Aayapa Swamy Temple Road, Madiwala, Bangalore",Madiwala,10000,192
+517,Zom_517,No.10 Fort Cochin,Seafood,4,500,250,"Indiranagar, Bangalore",Indiranagar,500,193
+518,Zom_518,The Momo Co.,North Indian Indian,4,250,125,"Chikkalakshmaiah Layout, Adugodi, Bangalore",Adugodi,15000,194
+519,Zom_519,TASTE OF BIHAR,Indian,4,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,5000,195
+520,Zom_520,Al Safa Hyderabadi Biryani &amp; Kabab,North Indian Indian,4,350,175,"Kanaka Nagar, Rt Nagar, Bangalore",Rt Nagar,10000,196
+521,Zom_521,Imperio Combo King,North Indian,4,250,125,"1St Block, Hrbr Layout, Kalyan Nagarr, Bangalore",Hrbr Layout,1000,197
+522,Zom_522,Biryani Lovers Joint,North Indian Indian,4,350,175,"M.S.R Nagar, Mathikere, Bangalore",M.S.R Nagar,15000,198
+523,Zom_523,ViVidha Biryani Joint ,Indian,4,350,175,"Msr Nagar, Yeshwantpur, Bangalore",M.S.R Nagar,500,199
+524,Zom_524,Cake House,Desserts,4,250,125,"Hrbr Layout, Kalyan Nagarr, Bangalore",Kalyan Nagarr,5000,200
+525,Zom_525,Crispy Crunchy Chick,Arabian,3,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,10000,201
+526,Zom_526,Shree Taaza Thindi,South Indian,4,150,75,"Appareddy Palya, Indiranagar, Bangalore",Indiranagar,500,202
+527,Zom_527,Sweet Truth - Cake and Desserts,Desserts,4,450,225,"Hoysala Nagar, Indiranagar, Bangalore",Indiranagar,15000,203
+528,Zom_528,Oven Theory Pizza - OTP,Continental,4,150,75,"Maruthi Nagar, Btm Layout, Bangalore",Maruthi Nagar,1000,204
+529,Zom_529,Biryani Day,North Indian Indian,3,350,175,"Jyoti Nivas College Rd, Koramangala, Bangalore",Koramangala,5000,205
+530,Zom_530,Hyderabadi Mandi House,North Indian Indian,2,350,175,"Kanakanagar, Rt Nagar, Bangalore",Rt Nagar,10000,206
+531,Zom_531,Indiana Burgers,"North Indian Indian,American",4,150,75,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,500,207
+532,Zom_532,BRILLIANT BIRYANI,North Indian Indian,3,200,100,"Kanakanagar, Nagawara, Bangalore",Kanakanagar,15000,208
+533,Zom_533,Shakeshack,Desserts,4,300,150,"Kodihalli, Domlur, Bangalore",Domlur,5000,209
+534,Zom_534,Arbabi,North Indian Indian,5,250,125,"Madeshwara Nagar, Btm, Bangalore",Madeshwara Nagar,5000,210
+535,Zom_535,Chef all night,North Indian Indian,2,199,100,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,15000,211
+536,Zom_536,Beyond The Crust - BTC,Desserts,4,250,125,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,1000,212
+537,Zom_537,Baking Bad  - Pizza Delivery,Continental,4,650,325,"1St Stage, Indiranagar, Bangalore",Indiranagar,10000,213
+538,Zom_538,Ambur Biriyani House,North Indian Indian,2,450,225,"Kanakanagar, Rt Nagar, Bangalore",Kanakanagar,500,214
+539,Zom_539,Dosa Camp,South Indian,2,200,100,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,15000,215
+540,Zom_540,Foodpecker,North Indian Indian,4,300,150,"1St Block, Koramangala, Bangalore",Koramangala,5000,216
+541,Zom_541,Peppy Parathas &amp; Rolls By Chai Point,Desserts,4,150,75,"Industrial Town, Rajajinagar, Bangalore",Rajajinagar,1000,217
+542,Zom_542,VV Biryani,North Indian Indian,3,200,100,"Madiwala, Btm, Bangalore",Madiwala,10000,218
+543,Zom_543,Pure Veg Meals by Lunchbox,North Indian Indian,4,200,100,"Hoysala Nagar, Indiranagar, Bangalore",Indiranagar,500,219
+544,Zom_544,The Khichadi Factory,North Indian,4,300,150,"Binnamangala, Indiranagar, Bangalore",Indiranagar,15000,220
+545,Zom_545,Burmuda Biryani,North Indian Indian,3,250,125,"Ns Palya, Btm Layout, Bangalore",Btm Layout,5000,221
+546,Zom_546,The Cheesecake Co,Desserts,4,400,200,"Kodihalli, Indiranagar, Bangalore",Indiranagar,10000,222
+547,Zom_547,Cupcake Bliss Cake &amp; Desserts,Desserts,4,200,100,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,1000,223
+548,Zom_548,Ambur Biryani Town,North Indian Indian,4,500,250,"Kanakanagar, Nagavara, Bangalore",Kanakanagar,15000,224
+549,Zom_549,Chai Sutta Cafe,Desserts,4,300,150,"Hrbr Layout, 3Rd Block, Kalyan Nagarr, Bangalore",Hrbr Layout,500,225
+550,Zom_550,CHINESE HUT,North Indian Indian,4,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,5000,226
+551,Zom_551,Biryani leaf,North Indian Indian,3,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,227
+552,Zom_552,Hungry Bird,North Indian Indian,4,250,125,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,500,228
+553,Zom_553,Night Hawks,North Indian Indian,3,200,100,"Nanjappa Layout, Adugodi, Bangalore",Adugodi,15000,229
+554,Zom_554,Samosa Singh,North Indian Indian,4,150,75,"New Thipasandra, Indiranagar, Bangalore",Indiranagar,10000,230
+555,Zom_555,TEXAS BURGERS,American,4,400,200,"Hal 3Rd Stage, Indiranagar, Bangalore",Indiranagar,5000,231
+556,Zom_556,VV Biryani,North Indian Indian,3,200,100,"Madiwala, Btm, Bangalore",Madiwala,1000,232
+557,Zom_557,Breakfast Junction,Punjabi,4,200,100,"Shanthi Nagar, Jayanagar, Bangalore",Jayanagar,500,233
+558,Zom_558,Delhi Kulfi &amp; Faluda,Desserts,4,200,100,"Khb Colony, Koramangala, Bangalore",Koramangala,15000,234
+559,Zom_559,Rolls World,Continental,3,300,150,"Jakksandra Ext, Koramangala, Bangalore",Koramangala,5000,235
+560,Zom_560,The Indian Dhaba,North Indian Indian,4,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,236
+561,Zom_561,temperature,Desserts,4,400,200,"Hal 3Rd Stage, Indiranagar, Bangalore",Indiranagar,1000,237
+562,Zom_562,Samosa Theory,North Indian Indian,4,100,50,"New Thipasandra Indiranagar, Bangalore",Indiranagar,500,238
+563,Zom_563,Madeena Aroma Biryani,North Indian Indian,4,399,200,"2Nd Stage Btm Layout, Bangalore",Btm Layout,15000,239
+564,Zom_564,Bodypower Cafe,Continental,4,450,225,"Hoysala Nagar Indiranagar, Bangalore",Indiranagar,5000,240
+565,Zom_565,Chinese Bowl,North Indian Indian,4,350,175,"Dena Bank Colony,Banashankari, Bangalore",Banashankari,1000,241
+566,Zom_566,Saleem Bawarchi,North Indian Indian,3,500,250,"Kanakanagar-Nagavara, Bangalore",Kanakanagar,10000,242
+567,Zom_567,Cafe Coffee Day,Desserts,4,300,150,"2Nd Stage Indiranagar, Bangalore",Indiranagar,500,243
+568,Zom_568,Ghee and Turmeric,North Indian Indian,4,500,250,"Appareddy Palya Indiranagar, Bangalore",Indiranagar,15000,244
+569,Zom_569,Gully Foods,North Indian Indian,4,250,125,"8Th Block Koramangala, Bangalore",Koramangala,1000,245
+570,Zom_570,MAEDAH,Arabian,4,450,225,"8Th Block Koram, Bangalore",Koramangala,5000,246
+571,Zom_571,Crave Pandas,"North Indian Indian,American",4,400,200,"Sarvagna Nagar, Kammanahalli, Kalyan Nagarr, Bangalore",Sarvagna Nagar,10000,247
+572,Zom_572,DILWALE RESTAURANT,North Indian,4,300,150,"Shivaji Nagar, No. 55 Cockburn Road, Central Bangalore, Bangalore",Shivaji Nagar,500,248
+573,Zom_573,Thottathil Restaurant,South,4,200,100,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,15000,249
+574,Zom_574,Samosa Singh,North Indian Indian,4,150,75,"New Thipasandra, Indiranagar, Bangalore",Indiranagar,1000,250
+575,Zom_575,NF Biryani House,North Indian Indian,4,500,250,"Kanakanagar, Nagavara, Bangalore",Kanakanagar,5000,251
+576,Zom_576,Chaayos Chai+Snacks=Relax,Desserts,4,250,125,"Appareddy Palya, Indiranagar, Bangalore",Indiranagar,10000,252
+577,Zom_577,Turkish Pasha,Arabian,4,400,200,"Khb Colony, Koramangala, Bangalore",Koramangala,500,253
+578,Zom_578,Cafe Nature,Desserts,4,300,150,"Hal 3Rd Stage, New Thippasandara, Bangalore",New Thippasandara,15000,254
+579,Zom_579,ADIL BIRYANI HOUSE,North Indian Indian,4,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,5000,255
+580,Zom_580,Sundae Everyday Continental Creams,Desserts,4,150,75,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,1000,256
+581,Zom_581,Boom Boom Biryani,North Indian Indian,3,500,250,"Kanakanagar, Nagavara, Bangalore",Kanakanagar,10000,257
+582,Zom_582,Singh Da Punjabi Dhaba,Punjabi,4,200,100,"7Th Block Koramangala, Bangalore",Koramangala,500,258
+583,Zom_583,Fritz Haber Continental Creams,Desserts,4,300,150,"8Th Block Koramangala, Bangalore",Koramangala,15000,259
+584,Zom_584,Agarwal Ke Parathe,North Indian Indian,4,250,125,"Thayappa Garden, Bilekahalli, Bangalore",Bilekahalli,5000,260
+585,Zom_585,THE BROWNIE CIRCLES,Desserts,4,250,125,"80 Feet Road Indiranagar, Bangalore",Indiranagar,10000,261
+586,Zom_586,Midnight Pizza And Food,Continental,4,200,100,"1St Stage Indiranagar, Bangalore",Indiranagar,1000,262
+587,Zom_587,A1 Ambur Biryani Since 2012,North Indian Indian,4,350,175,"Kanaka Nagar, R.T Nagar, Bangalore",R.T Nagar,15000,263
+588,Zom_588,BIRYANI QUEST,North Indian Indian,4,250,125,"Sarvagna Nagar, Kammanahalli, Kalyan Nagarr, Bangalore",Sarvagna Nagar,500,264
+589,Zom_589,Pizza Kingdom,Continental,4,300,150,"1St Stage Indiranagar, Bangalore",Indiranagar,5000,265
+590,Zom_590,Bhatinda Tandoor,Indian,4,350,175,"Jyoti Nivas College Rd, Koramangala, Bangalore",Koramangala,10000,266
+591,Zom_591,Biryani @Rs.99 Only,Continental,3,300,150,"Keb Colony, Btm Layout, Bangalore",Btm Layout,500,267
+592,Zom_592,Pasta House,Fast,4,299,150,"Chikka Madivala, Btm, Bangalore",Btm,15000,268
+593,Zom_593,Golden Globe Pizza,Continental,3,350,175,"9Th Phase Jp Nagar, Bangalore",Jp Nagar,10000,269
+594,Zom_594,Biryani On Way,North Indian Indian,3,250,125,"1St Stage Btm Layout, Bangalore",Btm Layout,5000,270
+595,Zom_595,Kingsway restaurant,North Indian Indian,3,250,125,"Hkp Road, Shivaji Nagar, Bangalore",Shivaji Nagar,1000,271
+596,Zom_596,Little Owl Chinese,Indian,3,200,100,"Msr Nagar, Sanjay Nagar, New Bel Road, Bangalore",Sanjay Nagar,500,272
+597,Zom_597,North Indian spContinental,North Indian,3,200,100,"1St Stage Indiranagar, Bangalore",Indiranagar,15000,273
+598,Zom_598,PC Biryani Joint,Indian,4,350,175,"Pipeline Road, Yeshwantpur, Bangalore",Yeshwantpur,5000,274
+599,Zom_599,Continentalberg Organic Continentalcreams,Indian,4,200,100,"Cunningham Road, Vasanth Nagar, Bangalore",Vasanth Nagar,10000,275
+600,Zom_600,China Town,North Indian Indian,4,300,150,"Rt Nagar, R.T Nagar, Bangalore",R.T Nagar,1000,276
+601,Zom_601,Insta cafe,Desserts,3,200,100,"Wipro Park, Koramangala, Bangalore",Koramangala,15000,277
+602,Zom_602,CHIP N DIP,North Indian Indian,4,200,100,"5Th Block Koramangala, Bangalore",Koramangala,500,278
+603,Zom_603,Madurai Tiffin House,Indian,2,300,150,"1St Stage Btm, Bangalore",Btm Layout,5000,279
+604,Zom_604,marwadi Tadka wala,Indian,3,150,75,"1St Stage Btm Layout, Bangalore",Btm Layout,10000,280
+605,Zom_605,Pizza Castle,Continental,4,450,225,"9Th Phase Jp Nagar, Bangalore",Jp Nagar,500,281
+606,Zom_606,Joey's Pizza Express Delivery,Italian,4,250,125,"2Nd Stage Indiranagar, Bangalore",Indiranagar,15000,282
+607,Zom_607,Wok noodles,North Indian Indian,4,299,150,"2Nd Stage Btm Layout, Bangalore",Btm Layout,1000,283
+608,Zom_608,High Ultra Express Pizza,Continental,5,200,100,"2Nd Stage Indiranagar, Bangalore",Indiranagar,5000,284
+609,Zom_609,Nadeem's Kitchen,North Indian Indian,2,500,250,"Kanaka Nagar, Nagawara, Bangalore",Kanaka Nagar,10000,285
+610,Zom_610,Biryani Master,North Indian Indian,4,350,175,"Btm, Bangalore",Btm Layout,500,286
+611,Zom_611,Al Zahra Hyderabadi Biryani @99,North Indian Indian,2,350,175,"Kanakanagar, Hebbal, Bangalore",Kanaka Nagar,15000,287
+612,Zom_612,Desi Biryani Cafe,North Indian Indian,4,300,150,"1St Stage Btm Layout, Bangalore",Btm Layout,5000,288
+613,Zom_613,Social,North Indian Indian,4,600,300,"Begur Hobli, Bommanahalli, Bangalore",Begur Hobli,1000,289
+614,Zom_614,The Firewood Pizza,Italian,4,150,75,"Chikkadugodi, Tavarekere, Bangalore",Chikkadugodi,10000,290
+615,Zom_615,Nando's,Portuguese,4,350,175,"7Th Block Koramangala, Bangalore",Koramangala,500,291
+616,Zom_616,Deshi Fusion Pizza,Italian,4,500,250,"1St Stage Indiranagar, Bangalore",Indiranagar,15000,292
+617,Zom_617,Wood Fire Pizza,Italian,4,400,200,"Subbanna Palya, Kammanahalli, Bangalore",Kammanahalli,1000,293
+618,Zom_618,Pabrai's Fresh And Naturelle Continental Cream,Desserts,4,250,125,5Th-Block-Koramangala-Bangalore,Koramangala,5000,294
+619,Zom_619,Fresh Bowls,North Indian Indian,4,200,100,Appareddy-Palya-Indiranagar-Bangalore,Indiranagar,10000,295
+620,Zom_620,Bite Me Cupcakes,Desserts,4,150,75,"Kodihalli, Domlur, Bangalore",Domlur,500,296
+621,Zom_621,GOWHEY- HEALTHY DESSERT COMPANY,Desserts,4,200,100,"Keb Colony, Btm Layout, Bangalore",Btm Layout,15000,297
+622,Zom_622,Burger Man,American,4,400,200,"2Nd Stage, Indiranagar, Bangalore",Indiranagar,5000,298
+623,Zom_623,Nomad Pizza- Traveller Series,Continental,4,850,425,"Cmh Road, Indiranagar, Bangalore",Indiranagar,1000,299
+624,Zom_624,Joe's Burgers and Shakes,North Indian Indian,4,200,100,"8Th Block, Koramangala, Bangalore",Koramangala,10000,300
+625,Zom_625,Sweet Bake-Cake And Desserts,Desserts,4,150,75,"Devasandra Layout, Bangalore",Devasandra Layout,15000,301
+626,Zom_626,KO Fried Chicken,American,4,300,150,"Old Madiwala, Btm, Bangalore",Old Madiwala,500,302
+627,Zom_627,Nadeem's Kitchen,North Indian Indian,2,500,250,"Kanaka Nagar, Nagawara, Bangalore",Kanaka Nagar,5000,303
+628,Zom_628,Chicking,American,4,400,200,"3Rd Stage, Banashankari, Bangalore",Banashankari,10000,304
+629,Zom_629,Marwadi Chaat &amp; Tiffin ServContinentals Shanti nagar,Rajasthani,4,300,150,"Shanti Nagar, Lakshmi Road, Shanthi Nagar, Bangalore",Shanti Nagar,500,305
+630,Zom_630,Imperio Restaurant,North Indian Indian,4,300,150,"1St Block, Hrbr Layout, Bangalore",Hrbr Layout,15000,306
+631,Zom_631,The Shake Stories,Desserts,3,250,125,"Jyoti Nivas College Rd, Koramangala, Bangalore",Koramangala,1000,307
+632,Zom_632,Ghar Ki Rasoi,North Indian Indian,4,300,150,"1St Stage, Indiranagar, Bangalore",Indiranagar,5000,308
+633,Zom_633,New Taj Darbar,North Indian Indian,4,300,150,"Saint Marys Church Road, Shivaji Nagar, Bangalore",Shivaji Nagar,10000,309
+634,Zom_634,Subway,Desserts,4,350,175,"1St Block, Cna, Koramangala, Bangalore",Koramangala,500,310
+635,Zom_635,Wingspot,Indian,4,350,175,"Jyoti Nivas College Rd Koramangala,Bangalore",Koramangala,15000,311
+636,Zom_636,Chai Corner,North Indian Indian,4,200,100,"Kodihalli Indiranagar,Bangalore",Indiranagar,5000,312
+637,Zom_637,Hot Burger Company,Desserts,3,180,90,"Khb Colony, Koramangala, Bangalore",Koramangala,1000,313
+638,Zom_638,Vp Biryani House,North Indian Indian,3,400,200,"Marenahalli, Jp Nagar, Bangalore",Jp Nagar,10000,314
+639,Zom_639,Chai Nagri,North Indian Indian,4,300,150,"Cauvery Colony, Koramangala, Bangalore",Koramangala,500,315
+640,Zom_640,Coorg pork station,North Indian Indian,4,400,200,"3Rd Block, Hrbr Layout, Kalyan Nagarr, Bangalore",Hrbr Layout,15000,316
+641,Zom_641,Chandni Chowk 2 Bangalore,North Indian Indian,3,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,5000,317
+642,Zom_642,Chole Bhature Street,Indian,4,300,150,"1St Stage Indiranagar,Bangalore",Indiranagar,10000,318
+643,Zom_643,Rajsthani pure veg Restaurent,North Indian Indian,2,299,150,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,1000,319
+644,Zom_644,PIZZAAJ,Continental,4,150,75,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,15000,320
+645,Zom_645,Leaf Biryani,North Indian Indian,4,350,175,"Elite Building, Koramangala, Bangalore",Koramangala,500,321
+646,Zom_646,Cakery and bready,North Indian Indian,3,300,150,"Jakkasandra, Koramangala, Bangalore",Koramangala,5000,322
+647,Zom_647,The Paratha Factory,North Indian Indian,4,300,150,"Binnamangala, Indiranagar, Bangalore",Indiranagar,10000,323
+648,Zom_648,Mandi Box,North Indian Indian,3,500,250,"Kanaka Nagar, Nagawara, Bangalore",Kanaka Nagar,500,324
+649,Zom_649,World Of Chinese,North Indian Indian,4,300,150,"1St Stage Indiranagar,Bangalore",Indiranagar,15000,325
+650,Zom_650,Kabab Magic Roll,North Indian Indian,3,400,200,"Vivek Nagar, Richmond Road, Bangalore",Vivek Nagar,1000,326
+651,Zom_651,Havmor Havfunn Continental cream,Desserts,4,400,200,"4Th Block, Jayanagar, Bangalore",Jayanagar,5000,327
+652,Zom_652,CAKE VILLAGE,Desserts,3,549,275,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,328
+653,Zom_653,Nomad - Vegetarian and Plant based Pizza Series,Italian,5,200,100,"Cmh Road Indiranagar,Bangalore",Indiranagar,500,329
+654,Zom_654,REEZ RESTAURANT,North Indian Indian,4,300,150,"55 Cockburn Road Central,Bangalore",55 Cockburn Road Central,15000,330
+655,Zom_655,Veg Daawat by Behrouz,North Indian Indian,3,500,250,"Hoysala Nagar, Indiranagar, Bangalore",Indiranagar,5000,331
+656,Zom_656,Saanvika Foods,"North Indian Indian,American",3,150,75,"Sarvagna Nagar, Indiranagar, Bangalore",Indiranagar,1000,332
+657,Zom_657,At D House Pizza,Continental,3,450,225,6Th-Sector-Hsr-Layout-Bangalore,Hsr Layoutr,10000,333
+658,Zom_658,FRIES TO GO,North Indian Indian,4,200,100,5Th-Block-Koramangala-Bangalore,Koramangala,500,334
+659,Zom_659,The Bowl Magic,North Indian Indian,3,300,150,"New Tippasandra Indiranagar, Bangalore",Indiranagar,15000,335
+660,Zom_660,TIPSY CAFE,Desserts,3,250,125,"Shivaji Nagar, Cockburn Road, Central Bangalore, Bangalore",Shivaji Nagar,1000,336
+661,Zom_661,City  Shanghai Center,North Indian Indian,4,300,150,"New Thipasandra Indiranagar, Bangalore",Indiranagar,5000,337
+662,Zom_662,New Taj Dum Biryani,North Indian Indian,3,400,200,"Swami Vivekananda Road, Halasuru, Bangalore",Halasuru,10000,338
+663,Zom_663,North East Food Station,Indian,3,199,100,"32Nd Main Rd, Btm, Bangalore",Btm,500,339
+664,Zom_664,Biryani Bhaijaan,North Indian Indian,4,200,100,"New Thipasandra Indiranagar, Bangalore",Indiranagar,15000,340
+665,Zom_665,Ambur Biryani House,North Indian Indian,3,350,175,"Kanaka Nagar, Nagawara, Bangalore",Kanaka Nagar,5000,341
+666,Zom_666,Mojito Hub,Indian,3,350,175,"Msr Nagar, Yeshwantpur, Bangalore",Msr Nagar,1000,342
+667,Zom_667,The Shake Company,Desserts,4,300,150,"1St Stage Btm Layout, Bangalore",Btm Layout,10000,343
+668,Zom_668,Simon Burgers,"North Indian Indian,American",5,400,200,"Ramaiah Layout, Kammanahalli, Kalyan Nagarr, Bangalore",Kammanahalli,500,344
+669,Zom_669,Biryani Ki Dukaan,North Indian Indian,4,500,250,"Kanaka Nagar, Nagawara, Bangalore",Kanaka Nagar,15000,345
+670,Zom_670,Tasty Stuff,North Indian Indian,3,200,100,"8Th Block Koramangala, Bangalore",Koramangala,5000,346
+671,Zom_671,Frosty Frills,Desserts,4,100,50,"5Th Block Koramangala, Bangalore",Koramangala,10000,347
+672,Zom_672,The Chocolate Heaven,Desserts,3,400,200,"Kacharakanahalli, Kammanahalli, Kalyan Nagarr, Bangalore",Kacharakanahalli,1000,348
+673,Zom_673,Heaven's Cakes,Desserts,4,300,150,"Kacharakanahalli, Kammanahalli, Kalyan Nagarr, Bangalore",Kacharakanahalli,15000,349
+674,Zom_674,Chandni Chowk,North Indian Indian,3,150,75,"New Thipasandra Indiranagar, Bangalore",Indiranagar,500,350
+675,Zom_675,Night Hawks,North Indian Indian,4,200,100,"Nanjappa Layout, Adugodi, Bangalore",Adugodi,5000,351
+676,Zom_676,Nirula's,Continental,4,500,250,"Sarvagna Nagar, Indiranagar, Bangalore",Indiranagar,10000,352
+677,Zom_677,Rolls Street,North Indian Indian,4,200,100,"Thippasandra Indiranagar, Bangalore",Indiranagar,500,353
+678,Zom_678,SUSAI'S HOME KITCHEN,South Indian,4,200,100,"Sarvagna Nagar, Indiranagar, Bangalore",Indiranagar,15000,354
+679,Zom_679,Winners Pizza (Fresh Dough),Continental,4,300,150,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,1000,355
+680,Zom_680,Scooby Cookhouse,Continental,4,300,150,"Ns Palya, Btm Layout, Bangalore",Btm Layout,5000,356
+681,Zom_681,Fresh crunch pizza,Continental,4,400,200,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,10000,357
+682,Zom_682,Cheesecakes By CakeZone,Desserts,4,200,100,"Domlur Layout, Indiranagar, Bangalore",Indiranagar,500,358
+683,Zom_683,Chats ki dukan,North Indian,3,200,100,"Aecs Layout, Sanjay Nagar, Bangalore",Sanjay Nagar,15000,359
+684,Zom_684,SLAY Coffee,Desserts,4,200,100,"Hoysala Nagar, Indiranagar, Bangalore",Indiranagar,5000,360
+685,Zom_685,Heaven In a Jar,Desserts,4,300,150,"Kodigehalli, Indiranagar, Bangalore",Indiranagar,1000,361
+686,Zom_686,Agarwal Pure Veg Restaurent,North Indian,2,299,150,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,10000,362
+687,Zom_687,Desi Chulha,South Indian,3,100,50,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,500,363
+688,Zom_688,Mc Crunchies,Indian,4,200,100,"Meganahalli, Kalyan Nagarr, Bangalore",Kalyan Nagarr,15000,364
+689,Zom_689,FOOD FACTORY,Indian,3,300,150,"Msr Nagar, New Bel Road, Bangalore",Msr Nagar,1000,365
+690,Zom_690,Continental Cafe and lassi shop,Desserts,4,200,100,"2Nd Stage Btm Layout, Bangalore",Btm Layout,5000,366
+691,Zom_691,A Tiny Kitchen,North Indian Indian,4,300,150,"2Rd Stage Btm Layout, Bangalore",Btm Layout,10000,367
+692,Zom_692,Let's Celebrate,Desserts,3,500,250,"1St Stage Btm Layout, Bangalore",Btm Layout,500,368
+693,Zom_693,Gabagab Continental Creams,Desserts,3,200,100,"4Th Block Jayanagar, Bangalore",Jayanagar,15000,369
+694,Zom_694,Biryani Central,Indian,2,250,125,"Maruthi Nagar, Btm Layout, Bangalore",Btm Layout,5000,370
+695,Zom_695,BOSTON PIZZERIA,Continental,4,300,150,"Subbannaiah Palya, Lingrajapuram, Bangalore",Lingrajapuram,1000,371
+696,Zom_696,Mr Cakes,Desserts,4,300,150,"2Nd Block, Hbr Layout, Bangalore",Hbr Layout,10000,372
+697,Zom_697,Artinci - Indulge Guilt Free!,Desserts,4,200,100,"5Th Sector, Hsr Layoutr, Bangalore",Hsr Layoutr,500,373
+698,Zom_698,"Thalis, Bowls &amp; More",Indian,3,300,150,"Keb Colony, Btm Layout, Bangalore",Btm Layout,15000,374
+699,Zom_699,crunch pizza express delivery,Italian,4,300,150,"Hal 2Nd Stage, Indiranagar, Bangalore",Indiranagar,5000,375
+700,Zom_700,Phulka,Indian,4,100,50,"5Th Block, Koramangala, Bangalore",Koramangala,10000,376
+701,Zom_701,Apna Ghar,Punjabi,3,200,100,"Lakshmisha Road, Jayanagar, Bangalore",Jayanagar,1000,377
+702,Zom_702,Stop Drop &amp; Rolls,North Indian Indian,5,250,125,"Lakshmamma Layout, Halasuru, Bangalore",Halasuru,15000,378
+703,Zom_703,Hint Food,American,4,400,200,"Kammanahalli, Kalyan Nagarr, Bangalore",Kalyan Nagarr,500,379
+704,Zom_704,Paratha Of Punjab,Desserts,5,300,150,"Btm 2 Stage, Bangalore",Btm 2 Stage,5000,380
+705,Zom_705,Savera Cafe,North Indian Indian,4,100,50,"Hkp Road, Shivaji Nagar, Bangalore",Shivaji Nagar,10000,381
+706,Zom_706,Foodx Restaurant,North Indian Indian,4,500,250,"Nehru Road, Kammanahalli, Kalyan Nagarr, Bangalore",Kammanahalli,500,382
+707,Zom_707,Waffle Head,Desserts,4,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,15000,383
+708,Zom_708,Momos Mania,North Indian Indian,4,150,75,"8Th Block, Koramangala, Bangalore",Koramangala,1000,384
+709,Zom_709,Grill Factory,American,3,500,250,"Mla Layout, Rt Nagar, Bangalore",Rt Nagar,5000,385
+710,Zom_710,"Wonton House	",North Indian Indian,4,350,175,"Jyoti Nivas College Road, Koramangala, Bangalore",Koramangala,10000,386
+711,Zom_711,Fries Box,North Indian Indian,3,250,125,"5Th Block, Koramangala, Bangalore",Koramangala,500,387
+712,Zom_712,Sharmaji'S Chole Bhature,North Indian Indian,4,350,175,"Anniya Reddy Layout, Jp Nagar, Bangalore",Jp Nagar,15000,388
+713,Zom_713,Homelike,Indian,3,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,5000,389
+714,Zom_714,TIPSY LASSI SHOP,Desserts,4,250,125,"Cockburn Road, Central Bangalore, Bangalore",Cockburn Road,1000,390
+715,Zom_715,Gudbud Sundaes,Desserts,3,400,200,"4Th Block, Jayanagar, Bangalore",Jayanagar,10000,391
+716,Zom_716,Midnight hunger saviour,North Indian Indian,2,199,100,"Maruti Nagar, Btm Layout, Bangalore",Maruti Nagar,500,392
+717,Zom_717,NNC DINE,North Indian Indian,4,250,125,"Kodihalli, Indiranagar, Bangalore",Indiranagar,15000,393
+718,Zom_718,JUMBO SANDWICH,Continental,4,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,1000,394
+719,Zom_719,Bihar Babu,Punjabi,4,200,100,"Shanthi Nagar, Basavanagudi, Bangalore",Shanthi Nagar,5000,395
+720,Zom_720,The Paramount Hotel,Indian,4,300,150,"Domlur, Bangalore",Domlur,10000,396
+721,Zom_721,Dr.Gelato,Desserts,4,300,150,"Lakhsmipuram, Indiranagar, Bangalore",Indiranagar,500,397
+722,Zom_722,Paratha House,North Indian,5,200,100,"Lakshmi Road, Shanti Nagar, Bangalore",Shanti Nagar,15000,398
+723,Zom_723,Breakfast Junction,Punjabi,4,200,100,"Shanthi Nagar, Jayanagar, Bangalore",Jayanagar,5000,399
+724,Zom_724,Momo Ninja,Asian,4,300,150,"Sg Palya, Tavarekere, Bangalore",Tavarekere,1000,400
+725,Zom_725,New Chawla Chicken,North Indian Indian,3,400,200,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,10000,401
+726,Zom_726,Lord house burger,"North Indian Indian,American",3,300,150,"Ns Palya, Btm Layout, Bangalore",Btm Layout,500,402
+727,Zom_727,Ambur 5 Star Biryani,North Indian Indian,2,350,175,"Kanakanagar, Rt Nagar, Bangalore",Rt Nagar,15000,403
+728,Zom_728,Andhra Spicy Kadai,North Indian Indian,4,300,150,"Hennur Main Road, Kammanahalli, Kalyan Nagarr, Bangalore",Kammanahalli,5000,404
+729,Zom_729,Harshas kitchen,South Indian,3,150,75,"Kurubarahalli, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,10000,405
+730,Zom_730,Haagen Dazs,Desserts,4,600,300,"Church Street, Bangalore",Church Street,1000,406
+731,Zom_731,Desi Chinese Center,North Indian Indian,4,300,150,"Thippasandra, Indiranagar, Bangalore",Indiranagar,15000,407
+732,Zom_732,Kebab-E-Ishq,North Indian,4,299,150,"Old Madiwala, Btm, Bangalore",Btm,500,408
+733,Zom_733,Rana vada pav,Desserts,4,100,50,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,5000,409
+734,Zom_734,InChi,Asian,4,350,175,"4Th Block, Koramangala, Bangalore",Koramangala,10000,410
+735,Zom_735,Raw food &amp; juContinental junction,Indian,4,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,500,411
+736,Zom_736,Momo Guy,Asian,4,200,100,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,15000,412
+737,Zom_737,Continental CREAM SHOP,Desserts,3,300,150,"Shivaji Nagar, No. 55 Cockburn Road, Central Bangalore, Bangalore",Shivaji Nagar,1000,413
+738,Zom_738,The Continentalcream Zone,North Indian,4,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,5000,414
+739,Zom_739,Meal Square by Late Night,Desserts,4,300,150,"Beliekalli, Btm, Bangalore",Btm,10000,415
+740,Zom_740,Bhojnayala,Punjabi,4,200,100,"Lakshmi Road, Jayanagar, Bangalore",Jayanagar,500,416
+741,Zom_741,Ekta s Ghar Ka Khana,Indian,4,248,124,"Cashier Layout, Btm, Bangalore",Btm,15000,417
+742,Zom_742,Green Dot Pizza,Continental,3,300,150,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,5000,418
+743,Zom_743,Saanvika Waffle House,Desserts,3,150,75,"Cmh Road, Indiranagar, Bangalore",Indiranagar,5000,419
+744,Zom_744,Navya's,North Indian Indian,2,400,200,"1St Stage, Btm Layout, Bangalore",Btm Layout,15000,420
+745,Zom_745,Samosa Platter,North Indian Indian,4,400,200,"Kodigehalli, Indiranagar, Bangalore",Indiranagar,1000,421
+746,Zom_746,Mama Keto Craves,Keto,5,300,150,"West Of Chord Road, Rajajinagar, Bangalore",Rajajinagar,10000,422
+747,Zom_747,Click &amp; Orders,North Indian,4,100,50,"Begur Main Road, Bommanahalli, Bangalore",Bommanahalli,500,423
+748,Zom_748,Sandys Sandwiches,Desserts,4,250,125,"Lakshamma Layout, Ulsoor, Bangalore",Lakshamma Layout,15000,424
+749,Zom_749,Rolls N More,North Indian Indian,3,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,5000,425
+750,Zom_750,Dawat Durbar,North Indian Indian,3,200,100,"Hkp Road, Shivaji Nagar, Bangalore",Shivaji Nagar,1000,426
+751,Zom_751,GULSHAN KA DHABA,Indian,3,150,75,"1St Stage, Btm Layout, Bangalore",Btm Layout,10000,427
+752,Zom_752,ITC Fabelle Chocolates,Desserts,3,600,300,"1St Stage, Indiranagar, Bangalore",Indiranagar,500,428
+753,Zom_753,Manchurian Bites,North Indian Indian,3,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,15000,429
+754,Zom_754,Breakfast,Desserts,4,100,50,"Cockburn Road, Central Bangalore, Bangalore",Cockburn Road,5000,430
+755,Zom_755,Fried Bowl,North Indian Indian,4,250,125,"6Th Block, Koramangala, Bangalore",Koramangala,10000,431
+756,Zom_756,Sunny's Chicken Wingss!,American,3,400,200,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,1000,432
+757,Zom_757,Kathi Club,North Indian,3,100,50,"5Th Block, Koramangala, Bangalore",Koramangala,15000,433
+758,Zom_758,Shalimaar family restaurant,North Indian Indian,3,300,150,"Sulthangunta, Shivaji Nagar, Bangalore",Shivaji Nagar,500,434
+759,Zom_759,Laura Cakes And Desserts,Desserts,4,400,200,"Shastri Nagar, Koramangala, Bangalore",Koramangala,5000,435
+760,Zom_760,Joey's Sandwich Station,North Indian Indian,4,400,200,"Btm, Bangalore",Btm,10000,436
+761,Zom_761,The Wing Story,North Indian Indian,2,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,500,437
+762,Zom_762,Freshii al natural,Desserts,4,150,75,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,15000,438
+763,Zom_763,CupCake Noggins,Desserts,4,200,100,"Domlur Layout, Jp Nagar, Bangalore",Domlur Layout,10000,439
+764,Zom_764,The Aroma Fox,North Indian Indian,3,250,125,"Fox Btm Layout, Adugodi, Bangalore",Adugodi,5000,440
+765,Zom_765,The Shake Stories,Desserts,3,250,125,"Jyoti Nivas College Rd, Koramangala, Bangalore",Koramangala,1000,441
+766,Zom_766,Miami Waffles &amp; Jawbreakers,Desserts,4,200,100,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,500,442
+767,Zom_767,Skoosh Bubble Tea - No Tapioca,Desserts,4,300,150,"1St Stage Btm Layout,Bangalore",Btm Layout,15000,443
+768,Zom_768,Great Pizzas,Italian,3,300,150,"Nehru Road, Kammanahalli, Kalyan Nagarr, Bangalore",Kammanahalli,5000,444
+769,Zom_769,Chinese The Dhabha,Indian,4,350,175,"Anniya Reddy Layout, Jp Nagar, Bangalore",Jp Nagar,10000,445
+770,Zom_770,Crispy Twist,"North Indian Indian,American",3,300,150,"M Cross Rd, Btm, Bangalore",Btm,1000,446
+771,Zom_771,BIG BRO'S GRILL,American,3,250,125,"Hal Old Airport Rd, Domlur, Bangalore",Btm Layout,500,447
+772,Zom_772,BOWLSS OF BLISS,Desserts,4,150,75,"1St Stage Btm Layout, Bangalore",1St Stage,15000,448
+773,Zom_773,Papacream,Desserts,4,350,175,"5Th Block Koramangala, Bangalore",Koramangala,5000,449
+774,Zom_774,HOLY FRY,North Indian Indian,3,200,100,"5Th Block Koramangala, Bangalore",Koramangala,1000,450
+775,Zom_775,Baba Ganoush,Arabian,4,300,150,"6Th Block Koramangala, Bangalore",Koramangala,10000,451
+776,Zom_776,Shahi Kitchens,Indian,4,300,150,"1St Block Shivaji Nagar, Bangalore",Shivaji Nagar,500,452
+777,Zom_777,Sandwich N Burger,Desserts,3,200,100,"1St Stage Btm Layout, Bangalore",Btm Layout,15000,453
+778,Zom_778,Pancakes by Knight Bite,American,4,200,100,"New Gurappana Palya, Btm Layout, Bangalore",Btm Layout,1000,454
+779,Zom_779,deli2go,North Indian Indian,3,300,150,"Millars Road, Vasanth Nagar, Bangalore",Vasanth Nagar,5000,455
+780,Zom_780,Continentalberg Sandwich,North Indian Indian,4,250,125,"Ns Palya, Btm Layout, Bangalore",Btm Layout,10000,456
+781,Zom_781,FOOD ENGINEER,Desserts,4,599,300,"1St Stage Btm Layout, Bangalore",1St Stage Btm Layout,500,457
+782,Zom_782,New York Waffles &amp; Dinges,Desserts,4,300,150,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,15000,458
+783,Zom_783,Wack Waffles &amp; Brownies,Desserts,4,250,125,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,1000,459
+784,Zom_784,Pulp Fiction,Desserts,4,200,100,"2Nd Stage Btm Layout, Bangalore",Btm Layout,5000,460
+785,Zom_785,Punjabi Thali,North Indian Indian,3,350,175,"1St Stage Btm Layout, Bangalore",Btm Layout,10000,461
+786,Zom_786,Pizzas and Pastas - By Chef Sunny,Continental,3,500,250,"2Nd Stage Btm Layout, Bangalore",Btm Layout,500,462
+787,Zom_787,BK Cafe,American,3,350,175,"Cmh Road, Indiranagar, Bangalore",Indiranagar,15000,463
+788,Zom_788,SRS kitchens,North Indian Indian,3,200,100,"Btm, Bangalore",Btm,5000,464
+789,Zom_789,CRAZY WINGS,American,4,300,150,"5Th Block Koramangala, Bangalore",Koramangala,1000,465
+790,Zom_790,Malnad Donne Biryani,North Indian Indian,3,350,175,"Jc Nagar, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,10000,466
+791,Zom_791,Ketoism,Desserts,3,300,150,"1St Block Koramangala, Bangalore",Koramangala,500,467
+792,Zom_792,Warm Begin,Desserts,3,150,75,"Pipeline Rd, Sanjay Nagar, New Bel Road, Bangalore",Sanjay Nagar,15000,468
+793,Zom_793,Biryani Master,North Indian Indian,4,350,175,"Btm, Bangalore",Btm,5000,469
+794,Zom_794,punjab time,North Indian,3,150,75,"1St Stage Btm Layout, Bangalore",Btm Layout,10000,470
+795,Zom_795,89 Express Dhaba,North Indian Indian,4,890,445,"1St Stage Btm Layout, Bangalore",Btm Layout,1000,471
+796,Zom_796,CHEEZY PIZZA,Italian,3,350,175,"Subbana Palya, Kammanahalli, Bangalore",Kammanahalli,15000,472
+797,Zom_797,Manchurian Bites,North Indian Indian,4,300,150,"2Nd Stage Btm Layout, Bangalore",Btm Layout,500,473
+798,Zom_798,Ghar Wali Khana,North Indian Indian,4,250,125,"2Nd Stage Btm Layout, Bangalore",Btm Layout,5000,474
+799,Zom_799,Shapana dhaba,North Indian Indian,3,150,75,"Ews Layout, Btm Layout, Bangalore",Btm Layout,10000,475
+800,Zom_800,Punjabi Thali,North Indian Indian,3,350,175,"Royal Orchid Hotel, Old Airport Road, Bangalore",Old Airport Road,500,476
+801,Zom_801,Pizzas and Pastas - By Chef Sunny,Continental,3,500,250,"2Nd Stage Btm Layout, Bangalore",Btm Layout,15000,477
+802,Zom_802,limelight-Royal Orchid Hotel,North Indian Indian,4,250,125,Old-Airport-Road-Bangalore,Rt Nagar,10000,478
+803,Zom_803,Momo Bowl,North Indian Indian,4,350,175,2Nd-Stage-Btm-Layout-Bangalore,Rt Nagar,5000,479
+804,Zom_804,Harshas kitchen,South Indian,3,150,75,"Kurubarahalli, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,1000,480
+805,Zom_805,Touchings Adda,North Indian Indian,3,400,200,"4Th Block, Koramangala, Bangalore",Koramangala,500,481
+806,Zom_806,China Toss,North Indian Indian,3,300,150,"Deve Gowda Nagar, Rt Nagar, Bangalore",Rt Nagar,15000,482
+807,Zom_807,KimLing,North Indian Indian,3,300,150,"Deve Gowda Nagar, Rt Nagar, Bangalore",Rt Nagar,5000,483
+808,Zom_808,Chang's Kitchen,North Indian Indian,4,300,150,"Deve Gowda Nagar, Rt Nagar, Bangalore",Rt Nagar,10000,484
+809,Zom_809,Delhi Kulfi &amp; Faluda,Desserts,3,200,100,"Khb Colony, Koramangala, Bangalore",Koramangala,1000,485
+810,Zom_810,Rolls World,Continental,4,300,150,"Jakksandra Ext, Koramangala, Bangalore",Koramangala,15000,486
+811,Zom_811,PastaCity.com,Continental,3,450,225,"6Th Block, Koramangala, Bangalore",Koramangala,500,487
+812,Zom_812,Kudo,Indian,4,600,300,"Green Leaf Extension, Koramangala, Bangalore",Koramangala,5000,488
+813,Zom_813,Dr. Carrot,Desserts,3,400,200,"6Th Sector, Hsr Layoutr, Bangalore",Hsr Layoutr,10000,489
+814,Zom_814,Mega Momo,North Indian Indian,4,200,100,"Kuvempu Nagar, Btm Layout, Bangalore",Btm Layout,500,490
+815,Zom_815,Flavours Of Punjab,North Indian,3,150,75,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,15000,491
+816,Zom_816,SWIRLYO,Desserts,4,250,125,"Ft Road, Indiranagar, Bangalore",Indiranagar,1000,492
+817,Zom_817,BIRIYANI HOUSE,North Indian Indian,3,350,175,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,5000,493
+818,Zom_818,Rana vada pav,Desserts,4,100,50,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,10000,494
+819,Zom_819,New Chawla Chicken,North Indian Indian,3,400,200,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,500,495
+820,Zom_820,Rajsthani pure veg Restaurent,North Indian Indian,2,299,150,"Maruti Nagar, Btm Layout, Bangalore",Btm Layout,15000,496
+821,Zom_821,Lord house burger,"North Indian Indian,American",4,300,150,"Ns Palya, Btm Layout, Bangalore",Btm Layout,5000,497
+822,Zom_822,Flavours Of Punjab,North Indian,3,150,75,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,1000,498
+823,Zom_823,Raw food &amp; juContinental junction,Indian,4,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,10000,499
+824,Zom_824,Continentalberg Sandwich,North Indian Indian,4,250,125,"Ns Palya, Btm Layout, Bangalore",Btm Layout,500,500
+825,Zom_825,Weedustan Cafe,American,4,250,125,"Thayppa Garden, Btm Layout, Bangalore",Btm Layout,15000,501
+826,Zom_826,Rich Sandwich,American,3,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,1000,502
+827,Zom_827,Bihari Babu,Bihari,3,250,125,"1St Stage, Btm Layout, Bangalore",Btm Layout,5000,503
+828,Zom_828,Nomad - Vegetarian and Plant based Pizza Series,Italian,5,200,100,"Cmh Road, Indiranagar, Bangalore",Indiranagar,10000,504
+829,Zom_829,BRAINFREEZE SHAKES,Desserts,4,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,500,505
+830,Zom_830,BOMBAY SANDWICH CO,North Indian Indian,3,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,15000,506
+831,Zom_831,The Pizza Joint,Continental,4,300,150,"80 Feet Main Road, Koramangala, Bangalore",Koramangala,5000,507
+832,Zom_832,BREAD AND KNIVES,North Indian Indian,3,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,1000,508
+833,Zom_833,Wing Stop,American,3,200,100,"5Th Block, Koramangala, Bangalore",Koramangala,10000,509
+834,Zom_834,"Indian Masala House	",North Indian Indian,3,300,150,"80 Feet Main Road, Koramangala, Bangalore",Koramangala,15000,510
+835,Zom_835,Biryani Hub,North Indian Indian,3,400,200,"Benson Town, Rt Nagar, Bangalore",Rt Nagar,500,511
+836,Zom_836,Popcorn Me,North Indian Indian,3,200,100,"Keb Colony, Btm Layout, Bangalore",Btm Layout,5000,512
+837,Zom_837,signature cafe,Continental,4,150,75,"Shivanagar, Basaveshwara Nagar, Bangalore",Basaveshwara Nagar,10000,513
+838,Zom_838,Rich Sandwich,American,4,300,150,"2Nd Stage, Btm Layout, Bangalore",Btm Layout,500,514
+839,Zom_839,Munchous Cafe,North Indian Indian,4,300,150,"1St Stage, Btm Layout, Bangalore",Btm Layout,15000,515
+840,Zom_840,Panda Momos,Asian,4,200,100,"Dollars Colony, New Bel Road, Bangalore",Dollars Colony,1000,516

@@ -1,0 +1,517 @@
+Rest_Listing_number,Restaurant_ID,Dish_category_ID,Dish_category,Dish_Name,Price_for_2,Price,Cusines
+325,Zom_325,1,Recommended (41),Grilled Chicken,600,300,American
+326,Zom_326,2,Beverages (4),Sushi Platter,500,250,North Indian Indian
+327,Zom_327,3,Ramadan Specials (7),Pesto Pasta,350,175,"North Indian Indian,American"
+328,Zom_328,4,New Launches (11),Lobster Roll,1200,600,American
+329,Zom_329,5,Leon Burgers And Burger Combos (21),Grilled Cheese Sandwich,300,150,North Indian Indian
+330,Zom_330,6,Hot & Spicy Chicken (7),Beef Tacos,450,225,North Indian Indian
+331,Zom_331,7,Peri Peri Chicken (5),Shrimp Cocktail,300,150,Continental
+332,Zom_332,8,London Doners (7),Buffalo Wings,300,150,North Indian Indian
+333,Zom_333,9,Leon Biryani Bowl & Platter (9),Roast Beef,300,150,North Indian Indian
+334,Zom_334,10,Leon Loaded Fries (6),Turkey Club Sandwich,400,200,North Indian Indian
+335,Zom_335,11,Salads (5),Chicken Caesar Salad,500,250,North Indian Indian
+336,Zom_336,12,Snacks (12),Nachos,300,150,North Indian Indian
+337,Zom_337,13,Desserts And Beverage (15),Greek Gyro,250,125,Continental
+338,Zom_338,14,Dips/sauces (6),Fried Chicken Sandwich,250,125,"North Indian Indian,American"
+339,Zom_339,15,Recommended (64),Cobb Salad,350,175,North Indian Indian
+340,Zom_340,16,Truffles Special (9),Cheeseburger,200,100,North Indian Indian
+341,Zom_341,17,Hot Dog (2),Chicken Satay,350,175,North Indian Indian
+342,Zom_342,18,Egg To Order (5),Fried rice,150,75,North Indian Indian
+343,Zom_343,19,Pav (1),Cobb salad,200,100,North Indian Indian
+344,Zom_344,20,Add Ons (1),Fettuccine Alfredo,400,200,American
+345,Zom_345,21,Full Cakes (4),Tacos,300,150,North Indian Indian
+346,Zom_346,22,Recommended (17),Grilled salmon,200,100,Italian
+347,Zom_347,23,Veg Starter (13),Shrimp scampi,250,125,North Indian Indian
+348,Zom_348,24,Non-veg Starter (19),Margherita pizza,400,200,"North Indian Indian,American"
+349,Zom_349,25,Sea Food Starter (6),Chicken quesadilla,250,125,North Indian
+350,Zom_350,26,Non-veg Curries (11),Pesto pasta,300,150,Continental
+351,Zom_351,27,Veg Curries (11),Chicken parmesan,200,100,North Indian Indian
+352,Zom_352,28,Non-veg Biriyani (12),Spaghetti Bolognese,250,125,Desserts
+353,Zom_353,29,Veg Biriyani (6),Chicken Tikka Masala,150,75,Continental
+354,Zom_354,30,Indian Breads (7),Sushi Rolls,200,100,North Indian Indian
+355,Zom_355,31,Egg (3),Falafel Wrap,250,125,North Indian Indian
+356,Zom_356,32,Rice (6),Beef Brisket,500,250,North Indian Indian
+357,Zom_357,33,Beverages (8),Tandoori Chicken,300,150,Rajasthani
+358,Zom_358,34,Veg Tandoor (1),Caesar Salad,250,125,North Indian Indian
+359,Zom_359,35,Non-veg Tandoor (3),Philly Cheesesteak,300,150,North Indian Indian
+360,Zom_360,36,Extra (3),Lobster Roll,400,200,South
+361,Zom_361,37,Recommended (21),Caesar Salad,300,150,Pan-Asian
+362,Zom_362,38,Match Time Combos (9),Lobster bisque,550,275,North Indian Indian
+363,Zom_363,39,Kulcha Burger (5),French onion soup,500,250,North Indian Indian
+364,Zom_364,40,Millet Specials (9),Tomato soup,450,225,North Indian Indian
+365,Zom_365,41,Breakfast & Snacks (22),Clam chowder,400,200,Continental
+366,Zom_366,42,3 Layer Rice Bowl (14),Butternut squash soup,200,100,American
+367,Zom_367,43,Healthy Khichdi (8),Gazpacho,600,300,Arabian
+368,Zom_368,44,Chinese - Noodles & Fried Rice (12),Chicken noodle soup,400,200,"North Indian Indian,American"
+369,Zom_369,45,Biryani & Kabab (2),Miso soup,400,200,Arabian
+370,Zom_370,46,Pasta & Salads (7),Minestrone soup,200,100,Desserts
+371,Zom_371,47,Breakfast Specials (4),Grilled Chicken,200,100,Desserts
+372,Zom_372,48,Social Stad-yum (7),Sushi Platter,450,225,North Indian Indian
+373,Zom_373,49,House Party Combo (2),Pesto Pasta,300,150,North Indian Indian
+374,Zom_374,50,China Box (Serves 1) (1),Lobster Roll,300,150,Indian
+375,Zom_375,51,Biryani (3),Grilled Cheese Sandwich,500,250,North Indian Indian
+376,Zom_376,52,Juicy Burgers (12),Beef Tacos,200,100,Desserts
+377,Zom_377,53,Social Meals (Serves 1) (13),Shrimp Cocktail,450,225,North Indian Indian
+378,Zom_378,54,Pastas (4),Buffalo Wings,300,150,North Indian Indian
+379,Zom_379,55,Munchies (20),Roast Beef,350,175,Continental
+380,Zom_380,56,Momos (8),Turkey Club Sandwich,400,200,North Indian Indian
+381,Zom_381,57,Sandwiches (3),Chicken Caesar Salad,200,100,Continental
+382,Zom_382,58,All Day Breakfast (5),Nachos,250,125,North Indian Indian
+383,Zom_383,59,Bangalores Local Heroes (8),Greek Gyro,100,50,North Indian Indian
+384,Zom_384,60,Baos And Paos (4),Fried Chicken Sandwich,200,100,North Indian Indian
+385,Zom_385,61,Soup (2),Cobb Salad,300,150,North Indian Indian
+386,Zom_386,62,Salad (2),Cheeseburger,200,100,North Indian Indian
+387,Zom_387,63,Indian Breads And Rice (2),Chicken Satay,400,200,Continental
+388,Zom_388,64,Signature Shakes (7),Fried rice,200,100,Desserts
+389,Zom_389,65,Refreshing Beverages (1),Cobb salad,300,150,Continental
+390,Zom_390,66,Desserts (3),Fettuccine Alfredo,890,445,North Indian Indian
+391,Zom_391,67,Recommended (20),Tacos,350,175,North Indian Indian
+392,Zom_392,68,T20 Match Day Mania (17),Grilled salmon,400,200,North Indian Indian
+393,Zom_393,69,Summer Of 23-New Launch! (8),Shrimp scampi,300,150,North Indian Indian
+394,Zom_394,70,Double Decker Sandwiches (3),Margherita pizza,200,100,Desserts
+395,Zom_395,71,Cold Coffee Delights (7),Chicken quesadilla,250,125,Arabian
+396,Zom_396,72,Sandwiches N Buns (6),Pesto pasta,400,200,South Indian
+397,Zom_397,73,Refreshing Quenchers (7),Chicken parmesan,200,100,North Indian Indian
+398,Zom_398,74,Celebration Cake (2),Spaghetti Bolognese,400,200,North Indian Indian
+399,Zom_399,75,Hot Special Flavorful Beverages (6),Chicken Tikka Masala,200,100,North Indian Indian
+400,Zom_400,76,Hot Coffee Selections (19),Sushi Rolls,300,150,North Indian Indian
+401,Zom_401,77,Delightful Desserts (3),Falafel Wrap,300,150,Tibetan
+402,Zom_402,78,Croissants Reloaded (8),Beef Brisket,100,50,North Indian Indian
+403,Zom_403,79,Sinful Sundaes (6),Tandoori Chicken,400,200,Arabian
+404,Zom_404,80,Yummy Snacks (7),Caesar Salad,645,322.5,North Indian Indian
+405,Zom_405,81,Beat The Heat With Iced Coffees (10),Philly Cheesesteak,150,75,North Indian Indian
+406,Zom_406,82,Triple Treat Combos Rs. 75 Off (4),Lobster Roll,350,175,North Indian Indian
+407,Zom_407,83,Assorted Combos (12),Caesar Salad,200,100,North Indian Indian
+408,Zom_408,84,Flask (9),Lobster bisque,300,150,Continental
+409,Zom_409,85,Tea Cake N Muffin (1),French onion soup,500,250,North Indian Indian
+410,Zom_410,86,Cookies N Chips (2),Tomato soup,300,150,North Indian Indian
+411,Zom_411,87,Ready To Drink (1),Clam chowder,349,174.5,Kerala
+412,Zom_412,88,Recommended (14),Butternut squash soup,250,125,North Indian
+413,Zom_413,89,Verrine Cups (1),Gazpacho,400,200,Desserts
+414,Zom_414,90,Bake Cheesecake Slices (5),Chicken noodle soup,200,100,American
+415,Zom_415,91,Exclusive combo (5),Miso soup,250,125,Desserts
+416,Zom_416,92,Recommended (18),Minestrone soup,250,125,North Indian Indian
+417,Zom_417,93,Ramadan Special (1),Grilled Chicken,350,175,North Indian Indian
+418,Zom_418,94,Bigger & Better is Back - Match Day Combos (3),Sushi Platter,400,200,American
+419,Zom_419,95,MPL [Momo Premier League] Combos (6),Pesto Pasta,150,75,American
+420,Zom_420,96,Delight Momo @109 (2),Lobster Roll,350,175,Indian
+421,Zom_421,97,Steam Momo (4),Grilled Cheese Sandwich,250,125,Desserts
+422,Zom_422,98,Fried Momo (8),Beef Tacos,200,100,North Indian
+423,Zom_423,99,Pan Fried Momo (6),Shrimp Cocktail,200,100,North Indian Indian
+424,Zom_424,100,Tandoori Momo (2),Buffalo Wings,250,125,Mexican
+425,Zom_425,101,Momo Burger (6),Roast Beef,250,125,Indian
+426,Zom_426,102,Dessert (1),Turkey Club Sandwich,150,75,North Indian Indian
+427,Zom_427,103,Extra (2),Chicken Caesar Salad,200,100,Desserts
+428,Zom_428,104,Recommended (13),Nachos,250,125,North Indian Indian
+429,Zom_429,105,Whopper (2),Greek Gyro,10,5,Indian
+430,Zom_430,106,Burgers & Wraps (2),Fried Chicken Sandwich,250,125,North Indian Indian
+431,Zom_431,107,Kings Premium Burgers (2),Cobb Salad,200,100,Desserts
+432,Zom_432,108,Cricket Mania Combos (4),Cheeseburger,170,85,Desserts
+433,Zom_433,109,Meal Combos(Save Rs. 45) (13),Chicken Satay,20,10,South Indian
+434,Zom_434,110,Sides (10),Fried rice,300,150,American
+435,Zom_435,111,Beverages (9),Cobb salad,200,100,Desserts
+436,Zom_436,112,Desserts (2),Fettuccine Alfredo,200,100,Desserts
+437,Zom_437,113,Chicken Wings (12),Tacos,400,200,North Indian Indian
+438,Zom_438,114,Recommended (41),Grilled salmon,350,175,North Indian Indian
+439,Zom_439,115,Beverages (4),Shrimp scampi,200,100,American
+440,Zom_440,116,Ramadan Specials (7),Margherita pizza,200,100,"North Indian Indian,American"
+441,Zom_441,117,New Launches (11),Chicken quesadilla,450,225,Desserts
+442,Zom_442,118,Leon Burgers And Burger Combos (21),Pesto pasta,300,150,Continental
+443,Zom_443,119,Hot & Spicy Chicken (7),Chicken parmesan,250,125,Desserts
+444,Zom_444,120,Peri Peri Chicken (5),Spaghetti Bolognese,300,150,North Indian Indian
+445,Zom_445,121,London Doners (7),Chicken Tikka Masala,250,125,"North Indian Indian,American"
+446,Zom_446,122,Leon Biryani Bowl & Platter (9),Sushi Rolls,400,200,North Indian Indian
+447,Zom_447,123,Leon Loaded Fries (6),Falafel Wrap,299,149.5,North Indian
+448,Zom_448,124,Salads (5),Beef Brisket,350,175,North Indian Indian
+449,Zom_449,125,Snacks (12),Tandoori Chicken,300,150,North Indian Indian
+450,Zom_450,126,Desserts And Beverage (15),Caesar Salad,200,100,North Indian Indian
+451,Zom_451,127,Dips/sauces (6),Philly Cheesesteak,100,50,Desserts
+452,Zom_452,128,Recommended (64),Lobster Roll,500,250,North Indian Indian
+453,Zom_453,129,Truffles Special (9),Caesar Salad,250,125,North Indian Indian
+454,Zom_454,130,Hot Dog (2),Lobster bisque,250,125,Desserts
+455,Zom_455,131,Egg To Order (5),French onion soup,300,150,Continental
+456,Zom_456,132,Pav (1),Tomato soup,500,250,North Indian Indian
+457,Zom_457,133,Add Ons (1),Clam chowder,150,75,Desserts
+458,Zom_458,134,Full Cakes (4),Butternut squash soup,250,125,Desserts
+459,Zom_459,135,Recommended (17),Gazpacho,150,75,North Indian Indian
+460,Zom_460,136,Veg Starter (13),Chicken noodle soup,300,150,North Indian Indian
+461,Zom_461,137,Non-veg Starter (19),Miso soup,250,125,North Indian
+462,Zom_462,138,Sea Food Starter (6),Minestrone soup,200,100,Desserts
+463,Zom_463,139,Non-veg Curries (11),Grilled Chicken,200,100,North Indian Indian
+464,Zom_464,140,Veg Curries (11),Sushi Platter,150,75,Desserts
+465,Zom_465,141,Non-veg Biriyani (12),Pesto Pasta,300,150,Continental
+466,Zom_466,142,Veg Biriyani (6),Lobster Roll,200,100,North Indian Indian
+467,Zom_467,143,Indian Breads (7),Grilled Cheese Sandwich,200,100,Mangalorean
+468,Zom_468,144,Egg (3),Beef Tacos,300,150,Desserts
+469,Zom_469,145,Rice (6),Shrimp Cocktail,250,125,North Indian Indian
+470,Zom_470,146,Beverages (8),Buffalo Wings,250,125,North Indian Indian
+471,Zom_471,147,Veg Tandoor (1),Roast Beef,300,150,North Indian
+472,Zom_472,148,Non-veg Tandoor (3),Turkey Club Sandwich,200,100,North Indian Indian
+473,Zom_473,149,Extra (3),Chicken Caesar Salad,250,125,"North Indian Indian,American"
+474,Zom_474,150,Recommended (21),Nachos,250,125,Desserts
+475,Zom_475,151,Match Time Combos (9),Greek Gyro,450,225,North Indian Indian
+476,Zom_476,152,Kulcha Burger (5),Fried Chicken Sandwich,350,175,Continental
+477,Zom_477,153,Millet Specials (9),Cobb Salad,250,125,Desserts
+478,Zom_478,154,Breakfast & Snacks (22),Cheeseburger,350,175,Desserts
+479,Zom_479,155,4 Layer Rice Bowl (14),Chicken Satay,100,50,Indian
+480,Zom_480,156,Healthy Khichdi (8),Fried rice,400,200,Italian
+481,Zom_481,157,Chinese - Noodles & Fried Rice (12),Cobb salad,350,175,Bengali
+482,Zom_482,158,Biryani & Kabab (2),Fettuccine Alfredo,250,125,North Indian Indian
+483,Zom_483,159,Pasta & Salads (7),Tacos,350,175,Indian
+484,Zom_484,160,Breakfast Specials (4),Grilled salmon,200,100,Desserts
+485,Zom_485,161,Social Stad-yum (7),Shrimp scampi,200,100,North Indian
+486,Zom_486,162,House Party Combo (2),Margherita pizza,300,150,Indian
+487,Zom_487,163,China Box (Serves 1) (1),Chicken quesadilla,150,75,Desserts
+488,Zom_488,164,Biryani (3),Pesto pasta,300,150,North Indian Indian
+489,Zom_489,165,Juicy Burgers (12),Chicken parmesan,200,100,Desserts
+490,Zom_490,166,Social Meals (Serves 1) (13),Spaghetti Bolognese,150,75,Desserts
+491,Zom_491,167,Pastas (4),Chicken Tikka Masala,250,125,South Indian
+492,Zom_492,168,Munchies (20),Sushi Rolls,250,125,North Indian Indian
+493,Zom_493,169,Momos (8),Falafel Wrap,350,175,North Indian Indian
+494,Zom_494,170,Sandwiches (3),Beef Brisket,400,200,Arabian
+495,Zom_495,171,All Day Breakfast (5),Tandoori Chicken,600,300,"North Indian Indian,American"
+496,Zom_496,172,Bangalores Local Heroes (8),Caesar Salad,400,200,Italian
+497,Zom_497,173,Baos And Paos (4),Philly Cheesesteak,150,75,Desserts
+498,Zom_498,174,Soup (2),Lobster Roll,250,125,Continental
+499,Zom_499,175,Salad (2),Caesar Salad,300,150,Desserts
+500,Zom_500,176,Indian Breads And Rice (2),Lobster bisque,150,75,"North Indian Indian,American"
+501,Zom_501,177,Signature Shakes (7),French onion soup,250,125,Desserts
+502,Zom_502,178,Refreshing Beverages (1),Tomato soup,175,87.5,"North Indian Indian,American"
+503,Zom_503,179,Desserts (3),Clam chowder,200,100,Desserts
+504,Zom_504,180,Recommended (20),Butternut squash soup,250,125,North Indian Indian
+505,Zom_505,181,T20 Match Day Mania (17),Gazpacho,400,200,South Indian
+506,Zom_506,182,Summer Of 23-New Launch! (8),Chicken noodle soup,299,149.5,North Indian Indian
+507,Zom_507,183,Double Decker Sandwiches (3),Miso soup,199,99.5,Indian
+508,Zom_508,184,Cold Coffee Delights (7),Minestrone soup,199,99.5,Desserts
+509,Zom_509,185,Sandwiches N Buns (6),Grilled Chicken,350,175,North Indian Indian
+510,Zom_510,186,Refreshing Quenchers (7),Sushi Platter,250,125,Indian
+511,Zom_511,187,Celebration Cake (2),Pesto Pasta,249,124.5,North Indian Indian
+512,Zom_512,188,Hot Special Flavorful Beverages (6),Lobster Roll,300,150,Punjabi
+513,Zom_513,189,Hot Coffee Selections (19),Grilled Cheese Sandwich,300,150,North Indian Indian
+514,Zom_514,190,Delightful Desserts (3),Beef Tacos,150,75,"North Indian Indian,American"
+515,Zom_515,191,Croissants Reloaded (8),Shrimp Cocktail,400,200,Desserts
+516,Zom_516,192,Sinful Sundaes (6),Buffalo Wings,350,175,American
+517,Zom_517,193,Yummy Snacks (7),Roast Beef,500,250,Seafood
+518,Zom_518,194,Beat The Heat With Iced Coffees (10),Turkey Club Sandwich,250,125,North Indian Indian
+519,Zom_519,195,Triple Treat Combos Rs. 75 Off (4),Chicken Caesar Salad,300,150,Indian
+520,Zom_520,196,Assorted Combos (12),Nachos,350,175,North Indian Indian
+521,Zom_521,197,Flask (9),Greek Gyro,250,125,North Indian
+522,Zom_522,198,Tea Cake N Muffin (1),Fried Chicken Sandwich,350,175,North Indian Indian
+523,Zom_523,199,Cookies N Chips (2),Cobb Salad,350,175,Indian
+524,Zom_524,200,Ready To Drink (1),Cheeseburger,250,125,Desserts
+525,Zom_525,201,Recommended (14),Chicken Satay,200,100,Arabian
+526,Zom_526,202,Verrine Cups (1),Fried rice,150,75,South Indian
+527,Zom_527,203,Bake Cheesecake Slices (5),Cobb salad,450,225,Desserts
+528,Zom_528,204,Exclusive combo (5),Fettuccine Alfredo,150,75,Continental
+529,Zom_529,205,Recommended (18),Tacos,350,175,North Indian Indian
+530,Zom_530,206,Ramadan Special (1),Grilled salmon,350,175,North Indian Indian
+531,Zom_531,207,Bigger & Better is Back - Match Day Combos (3),Shrimp scampi,150,75,"North Indian Indian,American"
+532,Zom_532,208,MPL [Momo Premier League] Combos (6),Margherita pizza,200,100,North Indian Indian
+533,Zom_533,209,Delight Momo @109 (2),Chicken quesadilla,300,150,Desserts
+534,Zom_534,210,Steam Momo (4),Pesto pasta,250,125,North Indian Indian
+535,Zom_535,211,Fried Momo (8),Chicken parmesan,199,99.5,North Indian Indian
+536,Zom_536,212,Pan Fried Momo (6),Spaghetti Bolognese,250,125,Desserts
+537,Zom_537,213,Tandoori Momo (2),Chicken Tikka Masala,650,325,Continental
+538,Zom_538,214,Momo Burger (6),Sushi Rolls,450,225,North Indian Indian
+539,Zom_539,215,Dessert (1),Falafel Wrap,200,100,South Indian
+540,Zom_540,216,Extra (2),Beef Brisket,300,150,North Indian Indian
+541,Zom_541,217,Recommended (13),Tandoori Chicken,150,75,Desserts
+542,Zom_542,218,Whopper (2),Caesar Salad,200,100,North Indian Indian
+543,Zom_543,219,Burgers & Wraps (2),Philly Cheesesteak,200,100,North Indian Indian
+544,Zom_544,220,Kings Premium Burgers (2),Lobster Roll,300,150,North Indian
+545,Zom_545,221,Cricket Mania Combos (4),Caesar Salad,250,125,North Indian Indian
+546,Zom_546,222,Meal Combos(Save Rs. 45) (13),Lobster bisque,400,200,Desserts
+547,Zom_547,223,Sides (10),French onion soup,200,100,Desserts
+548,Zom_548,224,Beverages (9),Tomato soup,500,250,North Indian Indian
+549,Zom_549,225,Desserts (2),Clam chowder,300,150,Desserts
+550,Zom_550,226,Chicken Wings (12),Butternut squash soup,200,100,North Indian Indian
+551,Zom_551,227,Recommended (41),Gazpacho,300,150,North Indian Indian
+552,Zom_552,228,Beverages (4),Chicken noodle soup,250,125,North Indian Indian
+553,Zom_553,229,Ramadan Specials (7),Miso soup,200,100,North Indian Indian
+554,Zom_554,230,New Launches (11),Minestrone soup,150,75,North Indian Indian
+555,Zom_555,231,Leon Burgers And Burger Combos (21),Grilled Chicken,400,200,American
+556,Zom_556,232,Hot & Spicy Chicken (7),Sushi Platter,200,100,North Indian Indian
+557,Zom_557,233,Peri Peri Chicken (5),Pesto Pasta,200,100,Punjabi
+558,Zom_558,234,London Doners (7),Lobster Roll,200,100,Desserts
+559,Zom_559,235,Leon Biryani Bowl & Platter (9),Grilled Cheese Sandwich,300,150,Continental
+560,Zom_560,236,Leon Loaded Fries (6),Beef Tacos,300,150,North Indian Indian
+561,Zom_561,237,Salads (5),Shrimp Cocktail,400,200,Desserts
+562,Zom_562,238,Snacks (12),Buffalo Wings,100,50,North Indian Indian
+563,Zom_563,239,Desserts And Beverage (15),Roast Beef,399,199.5,North Indian Indian
+564,Zom_564,240,Dips/sauces (6),Turkey Club Sandwich,450,225,Continental
+565,Zom_565,241,Recommended (64),Chicken Caesar Salad,350,175,North Indian Indian
+566,Zom_566,242,Truffles Special (9),Nachos,500,250,North Indian Indian
+567,Zom_567,243,Hot Dog (2),Greek Gyro,300,150,Desserts
+568,Zom_568,244,Egg To Order (5),Fried Chicken Sandwich,500,250,North Indian Indian
+569,Zom_569,245,Pav (1),Cobb Salad,250,125,North Indian Indian
+570,Zom_570,246,Add Ons (1),Cheeseburger,450,225,Arabian
+571,Zom_571,247,Full Cakes (4),Chicken Satay,400,200,"North Indian Indian,American"
+572,Zom_572,248,Recommended (17),Fried rice,300,150,North Indian
+573,Zom_573,249,Veg Starter (13),Cobb salad,200,100,South
+574,Zom_574,250,Non-veg Starter (19),Fettuccine Alfredo,150,75,North Indian Indian
+575,Zom_575,251,Sea Food Starter (6),Tacos,500,250,North Indian Indian
+576,Zom_576,252,Non-veg Curries (11),Grilled salmon,250,125,Desserts
+577,Zom_577,253,Veg Curries (11),Shrimp scampi,400,200,Arabian
+578,Zom_578,254,Non-veg Biriyani (12),Margherita pizza,300,150,Desserts
+579,Zom_579,255,Veg Biriyani (6),Chicken quesadilla,200,100,North Indian Indian
+580,Zom_580,256,Indian Breads (7),Pesto pasta,150,75,Desserts
+581,Zom_581,257,Egg (3),Chicken parmesan,500,250,North Indian Indian
+582,Zom_582,258,Rice (6),Spaghetti Bolognese,200,100,Punjabi
+583,Zom_583,259,Beverages (8),Chicken Tikka Masala,300,150,Desserts
+584,Zom_584,260,Veg Tandoor (1),Sushi Rolls,250,125,North Indian Indian
+585,Zom_585,261,Non-veg Tandoor (3),Falafel Wrap,250,125,Desserts
+586,Zom_586,262,Extra (3),Beef Brisket,200,100,Continental
+587,Zom_587,263,Recommended (21),Tandoori Chicken,350,175,North Indian Indian
+588,Zom_588,264,Match Time Combos (9),Caesar Salad,250,125,North Indian Indian
+589,Zom_589,265,Kulcha Burger (5),Philly Cheesesteak,300,150,Continental
+590,Zom_590,266,Millet Specials (9),Lobster Roll,350,175,Indian
+591,Zom_591,267,Breakfast & Snacks (22),Caesar Salad,300,150,Continental
+592,Zom_592,268,5 Layer Rice Bowl (14),Lobster bisque,299,149.5,Fast
+593,Zom_593,269,Healthy Khichdi (8),French onion soup,350,175,Continental
+594,Zom_594,270,Chinese - Noodles & Fried Rice (12),Tomato soup,250,125,North Indian Indian
+595,Zom_595,271,Biryani & Kabab (2),Clam chowder,250,125,North Indian Indian
+596,Zom_596,272,Pasta & Salads (7),Butternut squash soup,200,100,Indian
+597,Zom_597,273,Breakfast Specials (4),Gazpacho,200,100,North Indian
+598,Zom_598,274,Social Stad-yum (7),Chicken noodle soup,350,175,Indian
+599,Zom_599,275,House Party Combo (2),Miso soup,200,100,Indian
+600,Zom_600,276,China Box (Serves 1) (1),Minestrone soup,300,150,North Indian Indian
+601,Zom_601,277,Biryani (3),Grilled Chicken,2,1,Desserts
+602,Zom_602,278,Juicy Burgers (12),Sushi Platter,200,100,North Indian Indian
+603,Zom_603,279,Social Meals (Serves 1) (13),Pesto Pasta,300,150,Indian
+604,Zom_604,280,Pastas (4),Lobster Roll,150,75,Indian
+605,Zom_605,281,Munchies (20),Grilled Cheese Sandwich,450,225,Continental
+606,Zom_606,282,Momos (8),Beef Tacos,250,125,Italian
+607,Zom_607,283,Sandwiches (3),Shrimp Cocktail,299,149.5,North Indian Indian
+608,Zom_608,284,All Day Breakfast (5),Buffalo Wings,200,100,Continental
+609,Zom_609,285,Bangalores Local Heroes (8),Roast Beef,500,250,North Indian Indian
+610,Zom_610,286,Baos And Paos (4),Turkey Club Sandwich,350,175,North Indian Indian
+611,Zom_611,287,Soup (2),Chicken Caesar Salad,350,175,North Indian Indian
+612,Zom_612,288,Salad (2),Nachos,300,150,North Indian Indian
+613,Zom_613,289,Indian Breads And Rice (2),Greek Gyro,600,300,North Indian Indian
+614,Zom_614,290,Signature Shakes (7),Fried Chicken Sandwich,150,75,Italian
+615,Zom_615,291,Refreshing Beverages (1),Cobb Salad,350,175,Portuguese
+616,Zom_616,292,Desserts (3),Cheeseburger,500,250,Italian
+617,Zom_617,293,Recommended (20),Chicken Satay,400,200,Italian
+618,Zom_618,294,T20 Match Day Mania (17),Fried rice,250,125,Desserts
+619,Zom_619,295,Summer Of 23-New Launch! (8),Cobb salad,200,100,North Indian Indian
+620,Zom_620,296,Double Decker Sandwiches (3),Fettuccine Alfredo,150,75,Desserts
+621,Zom_621,297,Cold Coffee Delights (7),Tacos,200,100,Desserts
+622,Zom_622,298,Sandwiches N Buns (6),Grilled salmon,400,200,American
+623,Zom_623,299,Refreshing Quenchers (7),Shrimp scampi,850,425,Continental
+624,Zom_624,300,Celebration Cake (2),Margherita pizza,200,100,North Indian Indian
+625,Zom_625,301,Hot Special Flavorful Beverages (6),Chicken quesadilla,150,75,Desserts
+626,Zom_626,302,Hot Coffee Selections (19),Pesto pasta,300,150,American
+627,Zom_627,303,Delightful Desserts (3),Chicken parmesan,500,250,North Indian Indian
+628,Zom_628,304,Croissants Reloaded (8),Spaghetti Bolognese,400,200,American
+629,Zom_629,305,Sinful Sundaes (6),Chicken Tikka Masala,300,150,Rajasthani
+630,Zom_630,306,Yummy Snacks (7),Sushi Rolls,300,150,North Indian Indian
+631,Zom_631,307,Beat The Heat With Iced Coffees (10),Falafel Wrap,250,125,Desserts
+632,Zom_632,308,Triple Treat Combos Rs. 75 Off (4),Beef Brisket,300,150,North Indian Indian
+633,Zom_633,309,Assorted Combos (12),Tandoori Chicken,300,150,North Indian Indian
+634,Zom_634,310,Flask (9),Caesar Salad,350,175,Desserts
+635,Zom_635,311,Tea Cake N Muffin (1),Philly Cheesesteak,350,175,Indian
+636,Zom_636,312,Cookies N Chips (2),Lobster Roll,200,100,North Indian Indian
+637,Zom_637,313,Ready To Drink (1),Caesar Salad,180,90,Desserts
+638,Zom_638,314,Recommended (14),Lobster bisque,400,200,North Indian Indian
+639,Zom_639,315,Verrine Cups (1),French onion soup,300,150,North Indian Indian
+640,Zom_640,316,Bake Cheesecake Slices (5),Tomato soup,400,200,North Indian Indian
+641,Zom_641,317,Exclusive combo (5),Clam chowder,300,150,North Indian Indian
+642,Zom_642,318,Recommended (18),Butternut squash soup,300,150,Indian
+643,Zom_643,319,Ramadan Special (1),Gazpacho,299,149.5,North Indian Indian
+644,Zom_644,320,Bigger & Better is Back - Match Day Combos (3),Chicken noodle soup,150,75,Continental
+645,Zom_645,321,MPL [Momo Premier League] Combos (6),Miso soup,350,175,North Indian Indian
+646,Zom_646,322,Delight Momo @109 (2),Minestrone soup,300,150,North Indian Indian
+647,Zom_647,323,Steam Momo (4),Grilled Chicken,300,150,North Indian Indian
+648,Zom_648,324,Fried Momo (8),Sushi Platter,500,250,North Indian Indian
+649,Zom_649,325,Pan Fried Momo (6),Pesto Pasta,300,150,North Indian Indian
+650,Zom_650,326,Tandoori Momo (2),Lobster Roll,400,200,North Indian Indian
+651,Zom_651,327,Momo Burger (6),Grilled Cheese Sandwich,400,200,Desserts
+652,Zom_652,328,Dessert (1),Beef Tacos,549,274.5,Desserts
+653,Zom_653,329,Extra (2),Shrimp Cocktail,1200,600,Italian
+654,Zom_654,330,Recommended (13),Buffalo Wings,300,150,North Indian Indian
+655,Zom_655,331,Whopper (2),Roast Beef,500,250,North Indian Indian
+656,Zom_656,332,Burgers & Wraps (2),Turkey Club Sandwich,150,75,"North Indian Indian,American"
+657,Zom_657,333,Kings Premium Burgers (2),Chicken Caesar Salad,450,225,Continental
+658,Zom_658,334,Cricket Mania Combos (4),Nachos,200,100,North Indian Indian
+659,Zom_659,335,Meal Combos(Save Rs. 45) (13),Greek Gyro,300,150,North Indian Indian
+660,Zom_660,336,Sides (10),Fried Chicken Sandwich,250,125,Desserts
+661,Zom_661,337,Beverages (9),Cobb Salad,300,150,North Indian Indian
+662,Zom_662,338,Desserts (2),Cheeseburger,400,200,North Indian Indian
+663,Zom_663,339,Chicken Wings (12),Chicken Satay,199,99.5,Indian
+664,Zom_664,340,Recommended (41),Fried rice,200,100,North Indian Indian
+665,Zom_665,341,Beverages (4),Cobb salad,350,175,North Indian Indian
+666,Zom_666,342,Ramadan Specials (7),Fettuccine Alfredo,350,175,Indian
+667,Zom_667,343,New Launches (11),Tacos,300,150,Desserts
+668,Zom_668,344,Leon Burgers And Burger Combos (21),Grilled salmon,400,200,"North Indian Indian,American"
+669,Zom_669,345,Hot & Spicy Chicken (7),Shrimp scampi,500,250,North Indian Indian
+670,Zom_670,346,Peri Peri Chicken (5),Margherita pizza,200,100,North Indian Indian
+671,Zom_671,347,London Doners (7),Chicken quesadilla,100,50,Desserts
+672,Zom_672,348,Leon Biryani Bowl & Platter (9),Pesto pasta,400,200,Desserts
+673,Zom_673,349,Leon Loaded Fries (6),Chicken parmesan,300,150,Desserts
+674,Zom_674,350,Salads (5),Spaghetti Bolognese,150,75,North Indian Indian
+675,Zom_675,351,Snacks (12),Chicken Tikka Masala,200,100,North Indian Indian
+676,Zom_676,352,Desserts And Beverage (15),Sushi Rolls,500,250,Continental
+677,Zom_677,353,Dips/sauces (6),Falafel Wrap,200,100,North Indian Indian
+678,Zom_678,354,Recommended (64),Beef Brisket,200,100,South Indian
+679,Zom_679,355,Truffles Special (9),Tandoori Chicken,300,150,Continental
+680,Zom_680,356,Hot Dog (2),Caesar Salad,300,150,Continental
+681,Zom_681,357,Egg To Order (5),Philly Cheesesteak,400,200,Continental
+682,Zom_682,358,Pav (1),Lobster Roll,200,100,Desserts
+683,Zom_683,359,Add Ons (1),Caesar Salad,200,100,North Indian
+684,Zom_684,360,Full Cakes (4),Lobster bisque,200,100,Desserts
+685,Zom_685,361,Recommended (17),French onion soup,300,150,Desserts
+686,Zom_686,362,Veg Starter (13),Tomato soup,299,149.5,North Indian
+687,Zom_687,363,Non-veg Starter (19),Clam chowder,100,50,South Indian
+688,Zom_688,364,Sea Food Starter (6),Butternut squash soup,200,100,Indian
+689,Zom_689,365,Non-veg Curries (11),Gazpacho,300,150,Indian
+690,Zom_690,366,Veg Curries (11),Chicken noodle soup,200,100,Desserts
+691,Zom_691,367,Non-veg Biriyani (12),Miso soup,300,150,North Indian Indian
+692,Zom_692,368,Veg Biriyani (6),Minestrone soup,1500,750,Desserts
+693,Zom_693,369,Indian Breads (7),Grilled Chicken,200,100,Desserts
+694,Zom_694,370,Egg (3),Sushi Platter,250,125,Indian
+695,Zom_695,371,Rice (6),Pesto Pasta,300,150,Continental
+696,Zom_696,372,Beverages (8),Lobster Roll,300,150,Desserts
+697,Zom_697,373,Veg Tandoor (1),Grilled Cheese Sandwich,200,100,Desserts
+698,Zom_698,374,Non-veg Tandoor (3),Beef Tacos,300,150,Indian
+699,Zom_699,375,Extra (3),Shrimp Cocktail,300,150,Italian
+700,Zom_700,376,Recommended (21),Buffalo Wings,100,50,Indian
+701,Zom_701,377,Match Time Combos (9),Roast Beef,200,100,Punjabi
+702,Zom_702,378,Kulcha Burger (5),Turkey Club Sandwich,250,125,North Indian Indian
+703,Zom_703,379,Millet Specials (9),Chicken Caesar Salad,400,200,American
+704,Zom_704,380,Breakfast & Snacks (22),Nachos,300,150,Desserts
+705,Zom_705,381,6 Layer Rice Bowl (14),Greek Gyro,100,50,North Indian Indian
+706,Zom_706,382,Healthy Khichdi (8),Fried Chicken Sandwich,500,250,North Indian Indian
+707,Zom_707,383,Chinese - Noodles & Fried Rice (12),Cobb Salad,300,150,Desserts
+708,Zom_708,384,Biryani & Kabab (2),Cheeseburger,150,75,North Indian Indian
+709,Zom_709,385,Pasta & Salads (7),Chicken Satay,500,250,American
+710,Zom_710,386,Breakfast Specials (4),Fried rice,350,175,North Indian Indian
+711,Zom_711,387,Social Stad-yum (7),Cobb salad,250,125,North Indian Indian
+712,Zom_712,388,House Party Combo (2),Fettuccine Alfredo,350,175,North Indian Indian
+713,Zom_713,389,China Box (Serves 1) (1),Tacos,300,150,Indian
+714,Zom_714,390,Biryani (3),Grilled salmon,250,125,Desserts
+715,Zom_715,391,Juicy Burgers (12),Shrimp scampi,400,200,Desserts
+716,Zom_716,392,Social Meals (Serves 1) (13),Margherita pizza,199,99.5,North Indian Indian
+717,Zom_717,393,Pastas (4),Chicken quesadilla,250,125,North Indian Indian
+718,Zom_718,394,Munchies (20),Pesto pasta,300,150,Continental
+719,Zom_719,395,Momos (8),Chicken parmesan,200,100,Punjabi
+720,Zom_720,396,Sandwiches (3),Spaghetti Bolognese,300,150,Indian
+721,Zom_721,397,All Day Breakfast (5),Chicken Tikka Masala,300,150,Desserts
+722,Zom_722,398,Bangalores Local Heroes (8),Sushi Rolls,200,100,North Indian
+723,Zom_723,399,Baos And Paos (4),Falafel Wrap,200,100,Punjabi
+724,Zom_724,400,Soup (2),Beef Brisket,300,150,Asian
+725,Zom_725,401,Salad (2),Tandoori Chicken,400,200,North Indian Indian
+726,Zom_726,402,Indian Breads And Rice (2),Caesar Salad,300,150,"North Indian Indian,American"
+727,Zom_727,403,Signature Shakes (7),Philly Cheesesteak,350,175,North Indian Indian
+728,Zom_728,404,Refreshing Beverages (1),Lobster Roll,300,150,North Indian Indian
+729,Zom_729,405,Desserts (3),Caesar Salad,150,75,South Indian
+730,Zom_730,406,Recommended (20),Lobster bisque,600,300,Desserts
+731,Zom_731,407,T20 Match Day Mania (17),French onion soup,300,150,North Indian Indian
+732,Zom_732,408,Summer Of 23-New Launch! (8),Tomato soup,299,149.5,North Indian
+733,Zom_733,409,Double Decker Sandwiches (3),Clam chowder,100,50,Desserts
+734,Zom_734,410,Cold Coffee Delights (7),Butternut squash soup,350,175,Asian
+735,Zom_735,411,Sandwiches N Buns (6),Gazpacho,300,150,Indian
+736,Zom_736,412,Refreshing Quenchers (7),Chicken noodle soup,200,100,Asian
+737,Zom_737,413,Celebration Cake (2),Miso soup,300,150,Desserts
+738,Zom_738,414,Hot Special Flavorful Beverages (6),Minestrone soup,300,150,North Indian
+739,Zom_739,415,Hot Coffee Selections (19),Grilled Chicken,300,150,Desserts
+740,Zom_740,416,Delightful Desserts (3),Sushi Platter,200,100,Punjabi
+741,Zom_741,417,Croissants Reloaded (8),Pesto Pasta,248,124,Indian
+742,Zom_742,418,Sinful Sundaes (6),Lobster Roll,300,150,Continental
+743,Zom_743,419,Yummy Snacks (7),Grilled Cheese Sandwich,150,75,Desserts
+744,Zom_744,420,Beat The Heat With Iced Coffees (10),Beef Tacos,400,200,North Indian Indian
+745,Zom_745,421,Triple Treat Combos Rs. 75 Off (4),Shrimp Cocktail,400,200,North Indian Indian
+746,Zom_746,422,Assorted Combos (12),Buffalo Wings,300,150,Keto
+747,Zom_747,423,Flask (9),Roast Beef,100,50,North Indian
+748,Zom_748,424,Tea Cake N Muffin (1),Turkey Club Sandwich,250,125,Desserts
+749,Zom_749,425,Cookies N Chips (2),Chicken Caesar Salad,200,100,North Indian Indian
+750,Zom_750,426,Ready To Drink (1),Nachos,200,100,North Indian Indian
+751,Zom_751,427,Recommended (14),Greek Gyro,150,75,Indian
+752,Zom_752,428,Verrine Cups (1),Fried Chicken Sandwich,600,300,Desserts
+753,Zom_753,429,Bake Cheesecake Slices (5),Cobb Salad,300,150,North Indian Indian
+754,Zom_754,430,Exclusive combo (5),Cheeseburger,100,50,Desserts
+755,Zom_755,431,Recommended (18),Chicken Satay,250,125,North Indian Indian
+756,Zom_756,432,Ramadan Special (1),Fried rice,400,200,American
+757,Zom_757,433,Bigger & Better is Back - Match Day Combos (3),Cobb salad,100,50,North Indian
+758,Zom_758,434,MPL [Momo Premier League] Combos (6),Fettuccine Alfredo,300,150,North Indian Indian
+759,Zom_759,435,Delight Momo @109 (2),Tacos,400,200,Desserts
+760,Zom_760,436,Steam Momo (4),Grilled salmon,400,200,North Indian Indian
+761,Zom_761,437,Fried Momo (8),Shrimp scampi,200,100,North Indian Indian
+762,Zom_762,438,Pan Fried Momo (6),Margherita pizza,150,75,Desserts
+763,Zom_763,439,Tandoori Momo (2),Chicken quesadilla,200,100,Desserts
+764,Zom_764,440,Momo Burger (6),Pesto pasta,250,125,North Indian Indian
+765,Zom_765,441,Dessert (1),Chicken parmesan,250,125,Desserts
+766,Zom_766,442,Extra (2),Spaghetti Bolognese,200,100,Desserts
+767,Zom_767,443,Recommended (13),Chicken Tikka Masala,300,150,Desserts
+768,Zom_768,444,Whopper (2),Sushi Rolls,300,150,Italian
+769,Zom_769,445,Burgers & Wraps (2),Falafel Wrap,350,175,Indian
+770,Zom_770,446,Kings Premium Burgers (2),Beef Brisket,300,150,"North Indian Indian,American"
+771,Zom_771,447,Cricket Mania Combos (4),Tandoori Chicken,250,125,American
+772,Zom_772,448,Meal Combos(Save Rs. 45) (13),Caesar Salad,150,75,Desserts
+773,Zom_773,449,Sides (10),Philly Cheesesteak,350,175,Desserts
+774,Zom_774,450,Beverages (9),Lobster Roll,200,100,North Indian Indian
+775,Zom_775,451,Desserts (2),Caesar Salad,300,150,Arabian
+776,Zom_776,452,Chicken Wings (12),Lobster bisque,300,150,Indian
+777,Zom_777,453,Recommended (41),French onion soup,200,100,Desserts
+778,Zom_778,454,Beverages (4),Tomato soup,200,100,American
+779,Zom_779,455,Ramadan Specials (7),Clam chowder,300,150,North Indian Indian
+780,Zom_780,456,New Launches (11),Butternut squash soup,250,125,North Indian Indian
+781,Zom_781,457,Leon Burgers And Burger Combos (21),Gazpacho,599,299.5,Desserts
+782,Zom_782,458,Hot & Spicy Chicken (7),Chicken noodle soup,300,150,Desserts
+783,Zom_783,459,Peri Peri Chicken (5),Miso soup,250,125,Desserts
+784,Zom_784,460,London Doners (7),Minestrone soup,200,100,Desserts
+785,Zom_785,461,Leon Biryani Bowl & Platter (9),Grilled Chicken,350,175,North Indian Indian
+786,Zom_786,462,Leon Loaded Fries (6),Sushi Platter,500,250,Continental
+787,Zom_787,463,Salads (5),Pesto Pasta,350,175,American
+788,Zom_788,464,Snacks (12),Lobster Roll,200,100,North Indian Indian
+789,Zom_789,465,Desserts And Beverage (15),Grilled Cheese Sandwich,300,150,American
+790,Zom_790,466,Dips/sauces (6),Beef Tacos,350,175,North Indian Indian
+791,Zom_791,467,Recommended (64),Shrimp Cocktail,300,150,Desserts
+792,Zom_792,468,Truffles Special (9),Buffalo Wings,150,75,Desserts
+793,Zom_793,469,Hot Dog (2),Roast Beef,350,175,North Indian Indian
+794,Zom_794,470,Egg To Order (5),Turkey Club Sandwich,150,75,North Indian
+795,Zom_795,471,Pav (1),Chicken Caesar Salad,890,445,North Indian Indian
+796,Zom_796,472,Add Ons (1),Nachos,350,175,Italian
+797,Zom_797,473,Full Cakes (4),Greek Gyro,300,150,North Indian Indian
+798,Zom_798,474,Recommended (17),Fried Chicken Sandwich,250,125,North Indian Indian
+799,Zom_799,475,Veg Starter (13),Cobb Salad,150,75,North Indian Indian
+800,Zom_800,476,Non-veg Starter (19),Cheeseburger,350,175,North Indian Indian
+801,Zom_801,477,Sea Food Starter (6),Chicken Satay,500,250,Continental
+802,Zom_802,478,Non-veg Curries (11),Fried rice,250,125,North Indian Indian
+803,Zom_803,479,Veg Curries (11),Cobb salad,350,175,North Indian Indian
+804,Zom_804,480,Non-veg Biriyani (12),Fettuccine Alfredo,150,75,South Indian
+805,Zom_805,481,Veg Biriyani (6),Tacos,400,200,North Indian Indian
+806,Zom_806,482,Indian Breads (7),Grilled salmon,300,150,North Indian Indian
+807,Zom_807,483,Egg (3),Shrimp scampi,300,150,North Indian Indian
+808,Zom_808,484,Rice (6),Margherita pizza,300,150,North Indian Indian
+809,Zom_809,485,Beverages (8),Chicken quesadilla,200,100,Desserts
+810,Zom_810,486,Veg Tandoor (1),Pesto pasta,300,150,Continental
+811,Zom_811,487,Non-veg Tandoor (3),Chicken parmesan,450,225,Continental
+812,Zom_812,488,Extra (3),Spaghetti Bolognese,600,300,Indian
+813,Zom_813,489,Recommended (21),Chicken Tikka Masala,400,200,Desserts
+814,Zom_814,490,Match Time Combos (9),Sushi Rolls,200,100,North Indian Indian
+815,Zom_815,491,Kulcha Burger (5),Falafel Wrap,150,75,North Indian
+816,Zom_816,492,Millet Specials (9),Beef Brisket,250,125,Desserts
+817,Zom_817,493,Breakfast & Snacks (22),Tandoori Chicken,350,175,North Indian Indian
+818,Zom_818,494,7 Layer Rice Bowl (14),Caesar Salad,100,50,Desserts
+819,Zom_819,495,Healthy Khichdi (8),Philly Cheesesteak,400,200,North Indian Indian
+820,Zom_820,496,Chinese - Noodles & Fried Rice (12),Lobster Roll,299,149.5,North Indian Indian
+821,Zom_821,497,Biryani & Kabab (2),Caesar Salad,300,150,"North Indian Indian,American"
+822,Zom_822,498,Pasta & Salads (7),Lobster bisque,150,75,North Indian
+823,Zom_823,499,Breakfast Specials (4),French onion soup,300,150,Indian
+824,Zom_824,500,Social Stad-yum (7),Nachos,250,125,North Indian Indian
+825,Zom_825,501,House Party Combo (2),Greek Gyro,250,125,American
+826,Zom_826,502,China Box (Serves 1) (1),Fried Chicken Sandwich,300,150,American
+827,Zom_827,503,Biryani (3),Cobb Salad,250,125,Bihari
+828,Zom_828,504,Juicy Burgers (12),Cheeseburger,1200,600,Italian
+829,Zom_829,505,Social Meals (Serves 1) (13),Chicken Satay,200,100,Desserts
+830,Zom_830,506,Pastas (4),Fried rice,200,100,North Indian Indian
+831,Zom_831,507,Munchies (20),Cobb salad,300,150,Continental
+832,Zom_832,508,Momos (8),Fettuccine Alfredo,200,100,North Indian Indian
+833,Zom_833,509,Sandwiches (3),Tacos,200,100,American
+834,Zom_834,510,All Day Breakfast (5),Grilled salmon,300,150,North Indian Indian
+835,Zom_835,511,Bangalores Local Heroes (8),Shrimp scampi,400,200,North Indian Indian
+836,Zom_836,512,Baos And Paos (4),Margherita pizza,200,100,North Indian Indian
+837,Zom_837,513,Soup (2),Chicken quesadilla,150,75,Continental
+838,Zom_838,514,Salad (2),Pesto pasta,300,150,American
+839,Zom_839,515,Indian Breads And Rice (2),Chicken parmesan,300,150,North Indian Indian
+840,Zom_840,516,Signature Shakes (7),Spaghetti Bolognese,200,100,Asian
