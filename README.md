@@ -1,26 +1,23 @@
 # 
-# <h>  **InstaHyre Job Analysis with Web Scrapping, Python, SQL, Power Query and MS Excel**
+# <h>  **Zomato Restaurants Business Analysis Using SQL, Power BI And Power Query.**
 
-**The depository contains the analysis of Job openings available on InstaHyre.com job portal on the basis of location, fields, profiles, years of experience required, company size etc. The Project's objectives  were to investigate accessibility of jobs and to help a person to find the most suitable jobs based on his/her eligibilities and preferences. Additionally, it compared the availability of jobs in different locations, profiles, fields, level of experience etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Webscrapping part was done with Python (Beautiful Soap, Selenium, Pandas), Data cleaning part was done with Python (Pandas) and Power Query (MS Excel), the Aggregation of Data and Formation of Tables in SQL and the Analysis of Data along with the  Visualisation in MS Excel. This project was completed under the supervision of the Instructional Associate for our batch at Masai School, Mr Sushant Ranjan within 7 days.**
+**The depository contains the analysis of Restaurants listed on Zomato Food Delivery Platform in the city of Bangalore on the basis of location, cuisines, prices, ratings etc. The Project's objectives were to investigate the suitability of launching the restaurant business in Bangalore, Karnataka. Additionally, it compared the existing restaurants and their localities in Bangalore based on their ratings, prices, cuisines etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Aggregation of Data, Formation of Database, Tables, Schema (Data Modelling) and the Analysis of Data has been performed with SQL using MySQL Database Management System (DBMS). Importing the Data and Optimization of the same has been done with Power Query. An Interactive and Attractive Dashboard has been built using Power BI.**
 
 
 
 
 <br>
 <br>
-<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://forthebadge.com/images/badges/made-with-python.svg"></a></p>
+<p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"></a></p>
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files| Description |
 | ------------- | ------------- |
-| **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
-| **WebScrapping.ipynb** | This file contains the ipynb code of the Web scrapping part. |
-| **Data Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
-| **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
-| **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **DATATA.xlsx**  | This folder provides the raw data for the analysis .  |
-| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning.  |
+| **Zomato_Business_Analysis_Dashboard.pbix** | This file contains the Power BI dashboard of the insights. |
+| **Zomato_Business_Analysis.sql** | This file contains the SQL Queries. |
+| **Restaurants.csv** | This file contains the data related to the Restaurants in Bangalore. |
+| **Dishes.csv**  | This file contains the data related to the Dishes served in the Restaurants in Bangalore.   |
 <br>
 
 
@@ -43,7 +40,7 @@
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
-![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
+
 
 
 
