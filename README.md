@@ -1,7 +1,7 @@
 # 
 # <h>  **Zomato Restaurants Business Analysis Using SQL, Power BI And Power Query.**
 
-**The depository contains the analysis of Restaurants listed on Zomato Food Delivery Platform in the city of Bangalore on the basis of location, cuisines, prices, ratings etc. The Project's objectives were to investigate the suitability of launching the restaurant business in Bangalore, Karnataka. Additionally, it compared the existing restaurants and their localities in Bangalore based on their ratings, prices, cuisines etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Aggregation of Data, Formation of Database, Tables, Schema (Data Modelling) and the Analysis of Data has been performed with SQL using MySQL Database Management System (DBMS). Importing the Data and Data Cleaning has been done with Power Query. An Interactive and Attractive Dashboard has been built using Power BI.**
+**The depository contains the analysis of Restaurants listed on Zomato Food Delivery Platform in the city of Bangalore on the basis of location, cuisines, prices, ratings etc. The Project's objectives were to investigate the suitability of launching the restaurant business in Bangalore, Karnataka. Additionally, it compared the existing restaurants and their localities in Bangalore based on their ratings, prices, cuisines etc. Moreover, it aimed to reveal some of the dataset's hidden insights. The Aggregation of Data, Formation of Database, Tables, Schema (Data Modelling) and the Analysis of Data has been performed with SQL using MySQL Database Management System (DBMS). Importing the Data and Data Cleaning has been done with Power Query. An Interactive and Attractive Dashboard has been built using Power BI. Executed independently within 2 days.**
 
 
 
