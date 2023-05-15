@@ -10,7 +10,7 @@
 <br>
 <p align="center"><a><img src="https://forthebadge.com/images/badges/built-with-love.svg"><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"></a></p>
 
-##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+#  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
 | Files| Description |
 | ------------- | ------------- |
@@ -21,7 +21,7 @@
 <br>
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
     o       Analysed the number of Restaurants listed on Zomato in each Location in Bangalore.
@@ -37,7 +37,7 @@
     o	Found out the Most Expensive and the Cheapest Restaurants that serve a particular Cuisine in Bangalore.
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
+#  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
 
@@ -51,7 +51,7 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
     1. Started with Creating the Database and Activating it to use in MySQL.
     
@@ -74,7 +74,7 @@
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
    
    1. Indiranagar followed by BTM Layout and Koromangala amongst the locations in Bangalore have the highest number of Restaurants listed on Zomato.
    
@@ -92,7 +92,7 @@
    <br>
    
    
-   ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
+   #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
    <B> The aim of the Project is to: </B>
    
@@ -110,10 +110,10 @@
    
  
 
-<!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
+<!--  # <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
 I'm an aspiring data analyst...
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
+#  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
 
 <a href="https://www.linkedin.com/in/yash-upadhyay-9b642a254/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> 
